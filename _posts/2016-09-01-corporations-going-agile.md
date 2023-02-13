@@ -24,6 +24,7 @@ If he made a mistake, it would take weeks to correct. If you are familiar with F
 Imagine we take the diagram above and put it into a blender.
 ![Waterfall Approach]({{ site.baseurl }}/assets/images/waterfallApproach.png)
 ![Sprint Approach]({{ site.baseurl }}/assets/images/sprintApproach.png)
+
 We then serve out several ‘cups’. In Scrum, these are called ‘Sprints’. Regarding our Facebook example, this means that Mark would design each feature individually. If there is an issue, it can immediately be identified and corrected first time round. So if the idea was faulty that day, it would not be as catastrophic! He can stop the development process and fix the issue before the Facebook app upsets too many users, and most importantly, this method minimizes waste.
 ## Why Corporations Struggle With Agile
 
