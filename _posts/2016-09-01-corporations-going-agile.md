@@ -3,7 +3,7 @@ layout: post
 title:  "Corporations Going Agile"
 author: mark
 categories: [ Agile ]
-image: assets/images/17.jpg
+image: assets/images/scrum-board_flat.jpg
 beforetoc: "Imported from my post in another website back in 2016."
 toc: true
 ---
