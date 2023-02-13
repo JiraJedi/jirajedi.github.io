@@ -14,7 +14,7 @@ It’s 2016, and the software industry is booming. Every other day there is a ne
 ## Waterfall
 
 Older project management methods will typically use the Waterfall method or something similar. In the Waterfall method, the project is broken down into several aspects: Requirements, Design, Implementation, Verification, and Maintenance. Relatively straightforward, you tackle each problem individually, in steps, as seen in the diagram. (Its shape is what has dubbed this process as ‘Waterfall’)
-![Detailed View of the Waterfall Delivery Model](markmajer.github.com/blog/assets/waterfall.png)
+![Detailed View of the Waterfall Delivery Model]({{ site.baseurl }}/assets/waterfall.png)
 
 Any mistakes made earlier in the line are **extremely costly**. Let’s pretend that Facebook was built using this technique. Mark Zuckerberg would have gathered all of his requirements for college students. Then, he would have carefully designed all of the data models to support the requirements. With the data models in hand, he would have designed the User Interface to determine exactly how users would use it. After two months in the design phase, he would have then jumped into three months of the implementation carefully building what he thought was right. After the product was complete, he walked through a complicated verification process to ensure that the application worked and was valid. Then, once the users were using it, the product went into maintenance mode, and the application blew up overnight to be a success. This is not what happened in reality though.
 ## Agile
@@ -22,8 +22,8 @@ Any mistakes made earlier in the line are **extremely costly**. Let’s pretend 
 If he made a mistake, it would take weeks to correct. If you are familiar with Facebook’s development process, it was hacked after hack… which meant, version after version of the product was put in place to help Mark learn about his customers and make adjustments on the fly. Whether he realized it or not, he was using the Agile development methodology. What makes Agile different is that the steps involve all of the categories at once. The following analogy is taken from the [Scrum Training Series](https://scrumtrainingseries.com/)  by Michael James.
 
 Imagine we take the diagram above and put it into a blender.
-![Waterfall Approach](/assets/waterfallApproach.png)
-![Sprint Approach](/assets/sprintApproach.png)
+![Waterfall Approach]({{ site.baseurl }}/assets/waterfallApproach.png)
+![Sprint Approach]({{ site.baseurl }}/assets/sprintApproach.png)
 We then serve out several ‘cups’. In Scrum, these are called ‘Sprints’. Regarding our Facebook example, this means that Mark would design each feature individually. If there is an issue, it can immediately be identified and corrected first time round. So if the idea was faulty that day, it would not be as catastrophic! He can stop the development process and fix the issue before the Facebook app upsets too many users, and most importantly, this method minimizes waste.
 ## Why Corporations Struggle With Agile
 
