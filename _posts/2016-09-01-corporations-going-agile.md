@@ -7,8 +7,7 @@ image: assets/images/scrum-board_flat.jpg
 beforetoc: "Imported from my post in another website back in 2016."
 toc: true
 ---
-## Introduction
-
+**Introduction**
 It’s 2016, and the software industry is booming. Every other day there is a new start-up rearing its head and surprising us with applications we never knew we couldn’t live without. However, many more are failing, and this is not only applicable to start-ups. More and more, corporations are adopting software management techniques to gain the advantages of rapid delivery that their start-up counterparts have been using against them. Let’s take a quick at why Agile is so much better than Waterfall for  **most SAAS products**.
 
 ## Waterfall
