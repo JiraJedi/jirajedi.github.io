@@ -2,8 +2,8 @@
 name: "Mark's Blog"
 title: "Blog"
 description: "Mark Majer's Blog"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'MarkMajer.github.io/img/hi.png'
+favicon: 'MarkMajer.github.io/img/hi.png'
 baseurl: /blog
 google_analytics: ''
 disqus: ''
