@@ -2,8 +2,8 @@
 name: "Jira Jedi"
 title: "Jira Jedi"
 description: "Automation, Process Improvement and Atlassian help"
-logo: 'assets/images/hi.png'
-favicon: 'assets/images/hi.png'
+logo: 'assets/images/jirajedicon.png'
+favicon: 'assets/images/jirajedicon.png'
 baseurl: /
 google_analytics: ''
 disqus: ''
