@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Mark Majer
 permalink: /about
 comments: true
 ---
@@ -8,10 +8,12 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>A Maryland resident but a native of the United Kingdom, I began my career in management of web & mobile applications for startups and fortune 500 companies in 2015.</p>
+<p>I hold a PSM and PSPO and am passionate about Agile frameworks (particularly SCRUM), automation, and empowering teams.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+
+<h4>More About Me</h4>
+  <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/portfolio.png" alt="Mark's Portfolio" /></p>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
@@ -28,7 +30,7 @@ comments: true
 
 <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.buymeacoffee.com/markmaj" class="btn btn-danger">Buy me a coffee</a>
 
 </div>
 </div>
