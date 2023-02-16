@@ -28,7 +28,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve Jira Jedi.</p>
 
 <a target="_blank" href="https://www.buymeacoffee.com/markmaj" class="btn btn-danger">Buy me a coffee</a>
 
