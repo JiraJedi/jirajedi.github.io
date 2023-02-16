@@ -1,10 +1,10 @@
 # Site
-name: "Mark's Blog"
-title: "Blog"
-description: "Mark Majer's Blog"
+name: "Jira Jedi"
+title: "Jira Jedi"
+description: "Automation, Process Improvement and Atlassian help"
 logo: 'assets/images/hi.png'
 favicon: 'assets/images/hi.png'
-baseurl: /blog
+baseurl: /
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
