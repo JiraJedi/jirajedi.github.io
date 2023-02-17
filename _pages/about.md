@@ -15,11 +15,11 @@ comments: true
 <h4>More About Me</h4>
   <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/portfolio.png" alt="Mark's Portfolio" /></p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Check out some of my work over at <a href="https://markmajer.github.io">markmajer.github.io</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h4>About This Site</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>I built this site with the excellent Mediumish Theme in Jekyll. Head over to the <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a> to check it out.</p>
 
 </div>
 
