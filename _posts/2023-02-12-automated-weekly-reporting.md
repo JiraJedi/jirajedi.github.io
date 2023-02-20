@@ -22,7 +22,7 @@ When sending out emails/messaging for multiple projects to various stakeholders 
 > 2.  _**{Accomplishment 2}**_
 > 3.  _**{Accomplishment 3}**_
 > 
-> _We have used **{hours used}** / **{budgeted hours}** hours.  
+> _We have used **{hours used}** / **{budgeted hours}** hours._
 > 
 > **_The breakdown is as follows:_**
 > 
@@ -50,7 +50,7 @@ Microsoft Word has this functionality out of the box. You can reference a source
   
 >_See a complete walkthrough at  [Microsoft Support](https://support.microsoft.com/en-us/office/use-mail-merge-to-send-bulk-email-messages-0f123521-20ce-4aa8-8b62-ac211dedefa4)_
 
-| Pros 	| Cons 	|
-|---	|---	|
-| - Easy to use<br>- Fast 	| Cannot be used outside of the Outlook Mail client<br>(e.g if you want to post an update in another platform such as Basecamp/Teamwork). 	|
+| <font color="#00ab6b">"Pros"</font>	| <font color="red">"Cons"</font> |
+| --- | --- |
+| - Easy to use<br>- Fast | Cannot be used outside of the Outlook Mail client<br>(e.g if you want to post an update in another platform such as Basecamp/Teamwork). |
 ___  
