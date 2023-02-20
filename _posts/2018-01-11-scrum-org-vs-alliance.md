@@ -48,7 +48,7 @@ While a training course isn't a prerequisite, Scrum.org can put you in touch wit
 
 | Cert Type | Scrum Alliance | Scrum.org |
 | --- |---|---|
-| Certified Scrum Master/Professional Scrum Master | ~ $1000 | $150/$250/$500 |
+| Certified Scrum Master<br>/Professional Scrum Master | ~ $1000 | $150/$250/$500 |
 | Certified Scrum Product Owner/Professional Scrum Product Owner | $1200 – $1500 | $200/$500 |
 | Certified Scrum Developer/Professional Scrum Developer | $1800 – $3000 | $200 |
 
