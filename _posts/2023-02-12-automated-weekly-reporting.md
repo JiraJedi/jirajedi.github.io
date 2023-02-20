@@ -73,15 +73,15 @@ Utilizing macro tools such as PhraseExpress, AHK, etc (**or even actual code!**)
 The above example utilizes the PhraseExpress tool. It performs the following functions when called:
 
 1.  Opens the given Teamwork URL and waits for the page to load
-2.  Enters the string “Weekly Update | ” followed by the current date and then hits the TAB key to navigate to the message box
+2.  Enters the string 'Weekly Update | ' followed by the current date and then hits the TAB key to navigate to the message box
 3.  Enters the first part of the message and then begins to list completed work for the past week as given by the data source (Excel Spreadsheet). It is set to list 3 cells, hitting the enter key and bulleting each completed item.
 4.  The next step provides the used hours and the budgeted hours for the month, pulled from the sheet
 5.  Lastly, similar to step 3, the program lists upcoming work to be worked on in the upcoming week and closes out the message
 
+Note that this could have been streamlined to pull urls and stakeholder names from the spreadsheet as well.
 <figure>
     <img src="/assets/images/spreadReport.png"
          alt="A Weekly Report Source Spreadsheet">
-    <figcaption>Note that this could have been streamlined to pull urls and stakeholder names from the spreadsheet as well.</figcaption>
 </figure>
 
 <font color="#00ab6b">Pros</font>	
