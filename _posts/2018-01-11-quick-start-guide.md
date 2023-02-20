@@ -1,27 +1,65 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+title:  "Scrum.org VS Scrum Alliance"
+author: Mark
+categories: [ Scrum ]
+image: assets/images/scrumorgvsalliance.jpeg
 featured: true
-hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+## Introduction
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+Agile methodologies have gained significant traction since the 2000s. Scrum is an Agile methodology that promotes bottom-up leadership by utilizing self-organizing teams, not top-down direction.
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+Most beginner Scrum Masters or Product Owners typically find themselves asking: "Which organization should I use to get certified? [Scrum.org](https://scrum.org/) or [ScrumAlliance.org](https://www.scrumalliance.org/)?"
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+## A Brief History
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
+During the early 1990’s Ken Schwaber and Jeff Sutherland jointly presented a paper at the Business Object Design and Implementation Workshop in Austin, Texas. This gained more publicity in the 2000s and led to the birth of SCRUM. Schwaber and Sutherland started the [Scrum Alliance](https://www.scrumalliance.org/) and the CSM (Certified Scrum Master) certification.
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
+In 2009 Schwaber left and created his own Scrum organization, offering certifications such as the PSM (Professional Scrum Master), at [Scrum.org](https://scrum.org/).
 
-#### So how do we do spoilers?
+## Scrum Alliance
+![Scrum Alliance Certifications]({{ site.baseurl }}/assets/images/scrumalliance.png)
+The [Scrum Alliance](https://www.scrumalliance.org/) alliance offers certification to become proficient in Scrum, whether as a Certified Scrum Master (CSM), Product Owner (Certified Product owner) or even Developer (Certified Scrum Developer).
 
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+The test’s only requirement is a two day Scrum course (approximately $1,295, depending on the instructor). Once you have completed your training, you can take your test online. The pass acceptance score is 24/35 questions (65%).
+
+It is not hard to pass, and it’s not meant to be. You've paid and taken the class and you have some basic experience under your belt.
+
+For training courses to receive certification via the [Scrum Alliance](https://www.scrumalliance.org/), you can find a searchable list of available trainers/ courses on their [site](https://www.scrumalliance.org/agile-coaching/search).
+
+## Scrum.org
+![Scrum.Org Certification]({{ site.baseurl }}/assets/images/Scrumorg-Logo_tagline_TM.png)
+For those who do not have the flexibility for a 2-day course, are too far away from a seminar, already have a solid understanding of Scrum already, or simply wish to spend less, [Scrum.org](https://scrum.org/) is a viable solution.
+
+Scrum.org offers certification with no required courses beforehand. The exam is harder than the CSM and the score required to pass is 85%.
+
+Additionally, the courses are named differently than those of the Scrum Alliance (e.g. CSM is PSM (Professional Scrum Master)). Scrum.org is a little less known than the ScrumAlliance so this may lead to some confusion with employers.
+
+Scrum.org has a tiered certification system. A PSM is $150 for tier 1, $250 for 2 and $500 for number 3. A Professional Scrum Product Owner (PSPO) has 2 tiers ($200 and $500).  
+The plus side is that for all of the certifications, you can take higher tiers without any prerequisites if you feel you're already capable of passing.
+
+While a training course isn't a prerequisite, Scrum.org can put you in touch with a tutor here: [https://www.scrum.org/find-trainers](https://www.scrum.org/find-trainers).
+
+### Summary
+
+| Cert Type | Scrum Alliance | Scrum.org |
+| -- |--|--|
+| Certified Scrum Master/Professional Scrum Master | ~ $1000 | $150/$250/$500 |
+| Certified Scrum Product Owner/Professional Scrum Product Owner | $1200 – $1500 | $200/$500 |
+| Certified Scrum Developer/Professional Scrum Developer | $1800 – $3000 | $200 |
+
+Personally, I trained up for the Scrum.org certification because of the great price point and because I had some existing knowledge and experience. I would state here that it is really a matter of preference.
+
+-   Scrum.org is best for those who prefer to study up themselves.
+-   The Scrum Alliance provides you with a workshop which is great for accumulating hands-on experience.
+
+  
+
+## Additional Resources
+
+The internet provides many free resources for Scrum training. My favorite is the [Scrum Training Series](http://scrumtrainingseries.com/) by Michael James (shout out to Michael, thank you for your impressive training via your site!!)
+
+Regarding books, if you want a quick introduction, you should try ‘Scrum: A Breathtakingly Brief and Agile Introduction‘ by Chris Sims and Hillary Louise Johnson.  
+For a more in depth look into Scrum ‘The Elements of Scrum’ by the same authors will provide you with all you need to know.
