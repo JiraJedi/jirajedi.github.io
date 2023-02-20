@@ -53,6 +53,6 @@ Microsoft Word has this functionality out of the box. You can reference a source
 | <font color="#00ab6b">"Pros"</font>	| <font color="red">"Cons"</font> |
 | --- | --- |
 | Easy to use | Cannot be used outside of the Outlook Mail client<br>(e.g if you want to post an update in another platform such as Basecamp/Teamwork). |
-| | |
+| Fast | |
 
 ___  
