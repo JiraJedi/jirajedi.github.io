@@ -56,5 +56,5 @@ Microsoft Word has this functionality out of the box. You can reference a source
 
 | Pros | Cons |
 | --- | --- |
-| <ul><li>Easy to use</li><li>Fast</li></ul> | <ul><li>Cannot customise each subject line</li><li>Cannot be used outside of the Outlook Mail client (e.g if you want to post an update in another platform such as Basecamp/Teamwork).</li></ul> |
+| <ul><li>Easy to use</li><li>Fast</li></ul> | <ul><li>Cannot customise each subject line</li><li>Cannot be used outside of the Outlook Mail client<br>(e.g if you want to post an update in another platform such as Basecamp/Teamwork).</li></ul> |
 ___  
