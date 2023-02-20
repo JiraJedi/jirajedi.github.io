@@ -13,11 +13,6 @@ description: As any project manager knows, there are management tasks that are h
 When sending out emails/messaging for multiple projects to various stakeholders you cannot send out a generic template because the report needs to be populated with project/client relevant data.
 
 ### Example Report Template
-## The Problem
-
-When sending out emails/messaging for multiple projects to various stakeholders you cannot send out a generic template because the report needs to be populated with project/client relevant data.
-
-### Example Report Template
 
 > _Hi **<<Stakeholder Name>>**_
 > 
