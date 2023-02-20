@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Corporations Going Agile"
-author: mark
+author: Mark
 categories: [ Agile ]
 image: assets/images/scrum-board_flat.jpg
+description: More and more, corporations are adopting software management techniques to gain the advantages of rapid delivery that their start-up counterparts have been using against them. Let’s take a quick at why Agile is so much better than Waterfall for  **most SAAS products**.
 beforetoc: "Imported from my post in another website back in 2016."
 toc: true
 ---
