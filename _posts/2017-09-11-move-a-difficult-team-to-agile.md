@@ -3,7 +3,7 @@ layout: post
 title:  "How can I move my difficult development team to Agile?"
 author: Mark
 categories: [ Agile, Scrum ]
-image: assets/how-can-i-move-my-development-team-to-agile.png
+image: assets/how-can-i-move-my-development-team-to-agile-.png
 description: "In this post, I will explain how you can guide the most difficult people through the process and make them a believer."
 ---
 
