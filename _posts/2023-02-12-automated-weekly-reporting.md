@@ -66,5 +66,32 @@ Utilizing macro tools such as PhraseExpress, AHK, etc (**or even actual code!**)
 <figure>
     <img src="/assets/images/pexpress.png"
          alt="PhraseExpress Script">
-    <figcaption>A Weekly Report PhraseExpress Macro,</figcaption>
+    <figcaption>A Weekly Report PhraseExpress Macro</figcaption>
 </figure>
+
+
+The above example utilizes the PhraseExpress tool. It performs the following functions when called:
+
+1.  Opens the given Teamwork URL and waits for the page to load
+2.  Enters the string “Weekly Update | ” followed by the current date and then hits the TAB key to navigate to the message box
+3.  Enters the first part of the message and then begins to list completed work for the past week as given by the data source (Excel Spreadsheet). It is set to list 3 cells, hitting the enter key and bulleting each completed item.
+4.  The next step provides the used hours and the budgeted hours for the month, pulled from the sheet
+5.  Lastly, similar to step 3, the program lists upcoming work to be worked on in the upcoming week and closes out the message
+
+_Note that this could have been streamlined to pull urls and stakeholder names from the spreadsheet as well._
+
+<font color="#00ab6b">Pros</font>	
+-   Can have custom subject lines per message
+-   Can use other messaging platforms
+-   Greater range of data sources available (not restricted to Sheets)
+-   Can be combined with other macros for a complete workflow
+-   Can be run faster than a mailmerge once setup
+
+<font color="red">Cons</font>
+- More difficult to setup, especially without technical experience
+
+___
+
+## Conclusion
+
+This article covered 2 potential solutions for automating reports: Microsoft Word’s Mail Merge feature and creating a Macro in PhraseExpress. Both solutions have their pros and cons, but as always, use the right tool for the situation you are in.
