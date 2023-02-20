@@ -32,7 +32,7 @@ It is not hard to pass, and it’s not meant to be. You've paid and taken the cl
 For training courses to receive certification via the [Scrum Alliance](https://www.scrumalliance.org/), you can find a searchable list of available trainers/ courses on their [site](https://www.scrumalliance.org/agile-coaching/search).
 
 ## Scrum.org
-![Scrum.Org Certification]({{ site.baseurl }}/assets/images/Scrumorg-Logo_tagline_TM.png)
+![Scrum.Org Certification]({{ site.baseurl }}/assets/images/Scrumorg-Logo_tagline-TM.png)
 For those who do not have the flexibility for a 2-day course, are too far away from a seminar, already have a solid understanding of Scrum already, or simply wish to spend less, [Scrum.org](https://scrum.org/) is a viable solution.
 
 Scrum.org offers certification with no required courses beforehand. The exam is harder than the CSM and the score required to pass is 85%.
