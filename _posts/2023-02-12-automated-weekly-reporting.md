@@ -78,7 +78,11 @@ The above example utilizes the PhraseExpress tool. It performs the following fun
 4.  The next step provides the used hours and the budgeted hours for the month, pulled from the sheet
 5.  Lastly, similar to step 3, the program lists upcoming work to be worked on in the upcoming week and closes out the message
 
-_Note that this could have been streamlined to pull urls and stakeholder names from the spreadsheet as well._
+<figure>
+    <img src="/assets/images/spreadReport.png"
+         alt="A Weekly Report Source Spreadsheet">
+    <figcaption>Note that this could have been streamlined to pull urls and stakeholder names from the spreadsheet as well.</figcaption>
+</figure>
 
 <font color="#00ab6b">Pros</font>	
 -   Can have custom subject lines per message
