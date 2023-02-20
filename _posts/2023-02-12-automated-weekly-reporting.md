@@ -64,7 +64,7 @@ If you have some background in coding this next suggestion will be easier to pic
 
 Utilizing macro tools such as PhraseExpress, AHK, etc (**or even actual code!**), you can create a program to pull data from a chosen repository (such as a spreadsheet), populate a template and send to your chosen destination.
 <figure>
-    <img src="/assets/images/pexpress.jpg"
+    <img src="/assets/images/pexpress.png"
          alt="PhraseExpress Script">
     <figcaption>A Weekly Report PhraseExpress Macro,</figcaption>
 </figure>
