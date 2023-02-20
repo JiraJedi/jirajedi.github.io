@@ -53,4 +53,7 @@ The above is a typical example of a concise, yet detailed report that a PM may d
 Microsoft Word has this functionality out of the box. You can reference a source of data, such as a spreadsheet, to generate multiple emails with data pulled from your spreadsheet.
   
 >_See a complete walkthrough at  [Microsoft Support](https://support.microsoft.com/en-us/office/use-mail-merge-to-send-bulk-email-messages-0f123521-20ce-4aa8-8b62-ac211dedefa4)_
+| Pros | Cons |
+| --- | --- |
+  | <ul><li>Easy to use</li><li>Fast</li></ul> | <ul><li>Cannot customise each subject line</li><li>Cannot be used outside of the Outlook Mail client (e.g if you want to post an update in another platform such as Basecamp/Teamwork).</li></ul> |
 ___  
