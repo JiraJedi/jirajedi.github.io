@@ -14,7 +14,7 @@ When sending out emails/messaging for multiple projects to various stakeholders 
 
 ### Example Report Template
 
-> _Hi **{{Stakeholder Name}}**_
+> _Hi **{Stakeholder Name}**_
 > 
 > _This week we accomplished the following items:_
 > 
@@ -40,7 +40,7 @@ When sending out emails/messaging for multiple projects to various stakeholders 
 > 
 > _Best,_
 
-The above is a typical example of a concise, yet detailed report that a PM may deliver on a weekly basis to his/her clients. The variables are identified in  **bold**  with <p style="color:blue">{{ }}.</p> symbols on either side.
+The above is a typical example of a concise, yet detailed report that a PM may deliver on a weekly basis to his/her clients. The variables are identified in  **bold**  with <font color="red">"{ }"</font> symbols on either side.
   
 ## Solutions
 
