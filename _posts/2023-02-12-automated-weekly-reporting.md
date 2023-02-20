@@ -14,32 +14,33 @@ When sending out emails/messaging for multiple projects to various stakeholders 
 
 ### Example Report Template
 
-> _Hi **<<Stakeholder Name>>**_
+> _Hi **{{Stakeholder Name}}**_
 > 
 > _This week we accomplished the following items:_
 > 
-> 1.  _**<<Accomplishment 1>>**_
-> 2.  _**<<Accomplishment 2>>**_
-> 3.  _**<<Accomplishment 3>>**_
+> 1.  _**{{Accomplishment 1}}**_
+> 2.  _**{{Accomplishment 2}}**_
+> 3.  _**{{Accomplishment 3}}**_
 > 
-> _We have used **<<hours used>>** / **<<budgeted hours>>** hours.  
-> __The breakdown is as follows:_
+> _We have used **{{hours used}}** / **{{budgeted hours}}** hours.  
 > 
-> -   _Front-end Development: **<<Front-end hours used>>**_
-> -   _Backend Development: **<<Backend hours used>>**_
-> -   _Design: **<<Design hours used>>**_
+> **_The breakdown is as follows:_**
+> 
+> -   _Front-end Development: **{{Front-end hours used}}**_
+> -   _Backend Development: **{{Backend hours used}}**_
+> -   _Design: **{{Design hours used}}**_
 > 
 > _Next week we anticipate completing the following features:_
 > 
-> 1.  _**<<Upcoming feature 1>>**_
-> 2.  _**<<Upcoming feature 2>>**_
-> 3.  _**<<Upcoming feature 3>>**_
+> 1.  _**{{Upcoming feature 1}}**_
+> 2.  _**{{Upcoming feature 2}}**_
+> 3.  _**{{Upcoming feature 3}}**_
 > 
 > _Please let me know if you have any questions. I hope you have a great weekend._
 > 
 > _Best,_
 
-The above is a typical example of a concise, yet detailed report that a PM may deliver on a weekly basis to his/her clients. The variables are identified in  **bold**  with << >> symbols on either side.
+The above is a typical example of a concise, yet detailed report that a PM may deliver on a weekly basis to his/her clients. The variables are identified in  **bold**  with <p style="color:blue">{{ }}.</p> symbols on either side.
   
 ## Solutions
 
