@@ -50,10 +50,11 @@ Microsoft Word has this functionality out of the box. You can reference a source
   
 >_See a complete walkthrough at  [Microsoft Support](https://support.microsoft.com/en-us/office/use-mail-merge-to-send-bulk-email-messages-0f123521-20ce-4aa8-8b62-ac211dedefa4)_
 
-| <font color="#00ab6b">Pros</font>	|  | <font color="red">Cons</font> |
-| --- | --- | --- |
-| > Easy to use | | > Cannot be used outside of the Outlook Mail client |
-| > Fast |  |  |
+<font color="#00ab6b">Pros</font>	
+<ul><li>Easy to use</li><li>Fast</li></ul>
+
+<font color="red">Cons</font>
+<ul><li>Cannot be used outside of the Outlook Mail client</li></ul>
 
 ___  
 
@@ -62,4 +63,8 @@ ___
 If you have some background in coding this next suggestion will be easier to pickup.
 
 Utilizing macro tools such as PhraseExpress, AHK, etc (**or even actual code!**), you can create a program to pull data from a chosen repository (such as a spreadsheet), populate a template and send to your chosen destination.
-
+<figure>
+    <img src="/assets/images/pexpress.jpg"
+         alt="PhraseExpress Script">
+    <figcaption>A Weekly Report PhraseExpress Macro,</figcaption>
+</figure>
