@@ -44,7 +44,7 @@ The plus side is that for all of the certifications, you can take higher tiers w
 
 While a training course isn't a prerequisite, Scrum.org can put you in touch with a tutor here: [https://www.scrum.org/find-trainers](https://www.scrum.org/find-trainers).
 
-### Summary
+## Summary
 
 | Cert Type | Scrum Alliance | Scrum.org |
 | --- |---|---|
@@ -52,11 +52,11 @@ While a training course isn't a prerequisite, Scrum.org can put you in touch wit
 | Certified Scrum Product Owner<br>/Professional Scrum Product Owner | $1200 – $1500 | $200/$500 |
 | Certified Scrum Developer<br>/Professional Scrum Developer | $1800 – $3000 | $200 |
 
+
 Personally, I trained up for the Scrum.org certification because of the great price point and because I had some existing knowledge and experience. I would state here that it is really a matter of preference.
 
 -   Scrum.org is best for those who prefer to study up themselves.
 -   The Scrum Alliance provides you with a workshop which is great for accumulating hands-on experience.
-
 
 ## Additional Resources
 
