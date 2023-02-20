@@ -18,29 +18,29 @@ When sending out emails/messaging for multiple projects to various stakeholders 
 > 
 > _This week we accomplished the following items:_
 > 
-> 1.  _**{{Accomplishment 1}}**_
-> 2.  _**{{Accomplishment 2}}**_
-> 3.  _**{{Accomplishment 3}}**_
+> 1.  _**{Accomplishment 1}**_
+> 2.  _**{Accomplishment 2}**_
+> 3.  _**{Accomplishment 3}**_
 > 
-> _We have used **{{hours used}}** / **{{budgeted hours}}** hours.  
+> _We have used **{hours used}** / **{budgeted hours}** hours.  
 > 
 > **_The breakdown is as follows:_**
 > 
-> -   _Front-end Development: **{{Front-end hours used}}**_
-> -   _Backend Development: **{{Backend hours used}}**_
-> -   _Design: **{{Design hours used}}**_
+> -   _Front-end Development: **{Front-end hours used}**_
+> -   _Backend Development: **{Backend hours used}**_
+> -   _Design: **{Design hours used}**_
 > 
 > _Next week we anticipate completing the following features:_
 > 
-> 1.  _**{{Upcoming feature 1}}**_
-> 2.  _**{{Upcoming feature 2}}**_
-> 3.  _**{{Upcoming feature 3}}**_
+> 1.  _**{Upcoming feature 1}**_
+> 2.  _**{Upcoming feature 2}**_
+> 3.  _**{Upcoming feature 3}**_
 > 
 > _Please let me know if you have any questions. I hope you have a great weekend._
 > 
 > _Best,_
 
-The above is a typical example of a concise, yet detailed report that a PM may deliver on a weekly basis to his/her clients. The variables are identified in  **bold**  with <font color="red">"{ }"</font> symbols on either side.
+The above is a typical example of a concise, yet detailed report that a PM may deliver on a weekly basis to his/her clients. The variables are identified in  **bold**  with <font color="#00ab6b">"{ }"</font> symbols on either side.
   
 ## Solutions
 
@@ -50,7 +50,7 @@ Microsoft Word has this functionality out of the box. You can reference a source
   
 >_See a complete walkthrough at  [Microsoft Support](https://support.microsoft.com/en-us/office/use-mail-merge-to-send-bulk-email-messages-0f123521-20ce-4aa8-8b62-ac211dedefa4)_
 
-| Pros | Cons |
-| --- | --- |
-| <ul><li>Easy to use</li><li>Fast</li></ul> | <ul><li>Cannot customise each subject line</li><li>Cannot be used outside of the Outlook Mail client<br>(e.g if you want to post an update in another platform such as Basecamp/Teamwork).</li></ul> |
+| Pros 	| Cons 	|
+|---	|---	|
+| - Easy to use<br>- Fast 	| Cannot be used outside of the Outlook Mail client<br>(e.g if you want to post an update in another platform such as Basecamp/Teamwork). 	|
 ___  
