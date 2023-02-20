@@ -50,9 +50,9 @@ Microsoft Word has this functionality out of the box. You can reference a source
   
 >_See a complete walkthrough at  [Microsoft Support](https://support.microsoft.com/en-us/office/use-mail-merge-to-send-bulk-email-messages-0f123521-20ce-4aa8-8b62-ac211dedefa4)_
 
-| <font color="#00ab6b">Pros</font>	| <font color="red">Cons</font> |
-| --- | --- |
-| Easy to use | Cannot be used outside of the Outlook Mail client|
-| Fast | |
+| <font color="#00ab6b">Pros</font>	| | <font color="red">Cons</font> |
+| --- | --- | --- |
+| Easy to use | | Cannot be used outside of the Outlook Mail client|
+| Fast | | |
 
 ___  
