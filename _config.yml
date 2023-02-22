@@ -7,7 +7,7 @@ favicon: 'assets/images/jirajedicon.png'
 baseurl: /
 google_analytics: ''
 disqus: 'jirajedi'
-mailchimp-list: ''
+mailchimp-list: 'https://jirajedi.us21.list-manage.com/subscribe/post?u=8792572e197799746682727d4&amp;id=2293561a46&amp;f_id=0023f4e1f0'
 include: ["_pages"]
 permalink: /:title/
 
