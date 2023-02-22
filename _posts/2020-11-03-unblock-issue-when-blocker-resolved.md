@@ -22,9 +22,9 @@ We create a new type of issue link: Unblocks/Unblocked to reflect when a blocker
 Following  [Atlassian’s guidelines for creating a new link (Add New Link Section)](https://confluence.atlassian.com/adminjiraserver/configuring-issue-linking-938847862.html), you will want to create a new link type:
 ![JIra Admin Interface]({{ site.baseurl }}/assets/images/issueLinking.png)
 
-**Name:**	`Unblocks`<br>
-**Outward Link Description:**	`unblocks`<br>
-**Inward Description:**	is `unblocked by`
+> **Name:**	`Unblocks`<br>
+> **Outward Link Description:**	`unblocks`<br>
+> **Inward Description:**	is `unblocked by`
 
 Click ‘Add’ and you will have sucessfully set up a new link. Try using it on an existing Jira issue to verify it is there.
 
