@@ -4,7 +4,7 @@ title:  "Never stopped worrying or loving the bomb"
 author: Mark
 categories: [ Jira, Automation ]
 description: Linked blockers are pesky!
-image: assets/images/14.jpg
+image: assets/images/autoThumbnail.png
 ---
 ## Problem Intro
 Jira allows users to track blocked tasks by ‘linking’ them to their blockers. For example, issue EX-1 may be linked to EX-2 with a ‘blocked by’ link and vice versa. However, once the ‘blocker’ (EX-2) has been completed, EX-1 will not reflect this on a surface level. You need to delve into the issue details and check on the status of EX-2.
