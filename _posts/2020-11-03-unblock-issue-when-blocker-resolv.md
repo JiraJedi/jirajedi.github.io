@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
+title:  "Unblock An Issue When The Blocker Is Resolved"
 author: Mark
 categories: [ Jira, Automation ]
 description: Linked blockers are pesky!
