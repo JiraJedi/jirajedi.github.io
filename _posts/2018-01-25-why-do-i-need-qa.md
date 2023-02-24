@@ -4,7 +4,7 @@ title:  "Why Do I need a QA Engineer?"
 description: Why is a Quality Assurance engineer necessary for development of software? Couldn’t I simply get my developers to QA/review their own work?
 author: Mark
 categories: [ Agile ]
-image: assets/images/QAThumbnail.png
+image: assets/images/QAThumbnail.jpng
 ---
 ## Introduction
 Why is a Quality Assurance engineer necessary for development of software? Couldn’t I simply get my developers to QA/review their own work? Could I get get developers to review each other’s work? These are all questions that I have come across at some point or other from multiple people.
@@ -29,3 +29,6 @@ Example: Still running flash player on your site? Browsers are discontinuing sup
 ## Can Developers QA Their Own Work?
 The QA engineer should be a consistent team member, part of daily scrums and involved in feature development. Developers however,are assigned a particular module of the whole system and aren’t truly aware of the system as a whole. Not only is development typically modular, a developer has a completely different mindset and thought process. He/she may not consider all the scenarios a tester would consider.
 They can definitely code review their peers but QA is a different game entirely.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA0Mjc5OTQ0MF19
+-->
