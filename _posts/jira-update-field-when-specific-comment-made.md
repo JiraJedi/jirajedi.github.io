@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Jira: Auto Update Fields When Specific Comments Are Made"
@@ -15,6 +14,6 @@ https://www.reddit.com/r/jira/comments/jwqhe2/comment/gctzc1e/?utm_term=35604468
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6WzE0
-Mzg5MDUzNDAsLTIwMDAzNDkwMTEsMTg5Mjk2MTkwMV19
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0x
+NzM0NTA0NDcwLC0yMDAwMzQ5MDExLDE4OTI5NjE5MDFdfQ==
 -->
