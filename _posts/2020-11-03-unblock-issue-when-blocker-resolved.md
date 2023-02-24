@@ -5,6 +5,7 @@ author: Mark
 categories: [ Jira, Automation ]
 description: Linked blockers are pesky!
 image: assets/images/autoThumbnail.png
+featured: true
 ---
 ## Problem Intro
 Jira allows users to track blocked tasks by ‘linking’ them to their blockers. For example, issue EX-1 may be linked to EX-2 with a ‘blocked by’ link and vice versa. However, once the ‘blocker’ (EX-2) has been completed, EX-1 will not reflect this on a surface level. You need to delve into the issue details and check on the status of EX-2.
@@ -60,3 +61,6 @@ If your workflow allows for issues to be transitioned back from ‘DONE’ you m
 This article covered adding a new link type to indicate unblocked issues and adding automation to unblock/restore blockers from transitioned Jira issues.
 
 If you have questions or feedback, feel free to drop by the comments section.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzQ4MjMwMjU2XX0=
+-->
