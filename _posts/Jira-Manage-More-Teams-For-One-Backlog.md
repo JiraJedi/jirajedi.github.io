@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Books For Getting Started With Project Management"
+title:  "Jira: How to Manage More SCRUM Teams For One Backlog"
 author: Mark
-categories: [ Agile, Project Management ]
+categories: [ Agile, Jira ]
 image: assets/images/automation.png
 description: 
 toc: true
 beforetoc: 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUyMTk4NDNdfQ==
+eyJoaXN0b3J5IjpbMTM4MDQwMDk4OF19
 -->
