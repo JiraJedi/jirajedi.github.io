@@ -13,7 +13,8 @@ I often see the question: "How do I manage a product backlog that spans multiple
 
 The typical scenario is a Product Owner overseeing a backlog that multiple teams need to pull issues from. These teams often have their own Projects in Jira and it doesn't make sense to have them flip between multiple projects / boards. It would certainly make priortizing tasks a nightmare.
 
-So
+## Solution Overview
+We create Components that correspond to their respectiove tWe assign Components to issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTIxNTIsLTE4OTU5MzA5NjJdfQ==
+eyJoaXN0b3J5IjpbLTQ2NDA2Nzc2NiwtMTg5NTkzMDk2Ml19
 -->
