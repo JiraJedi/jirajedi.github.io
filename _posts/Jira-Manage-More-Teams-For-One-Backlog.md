@@ -9,7 +9,7 @@ toc: true
 beforetoc: 
 ---
 ## Introduction
-I often see the question: "How do I manage a product backlog in Jira that spans multiple teams / projects in J
+I often see the question: "How do I manage a product backlog that spans multiple teams / projects in Jira?". 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzUzNjk2NF19
+eyJoaXN0b3J5IjpbLTE4OTU5MzA5NjJdfQ==
 -->
