@@ -18,9 +18,11 @@ We want a single backlog that a Product Owner can control the priorities of and 
 -  Create Components that correspond to their respective teams. 
 - Assign Components to issues
 - Modify the filters of Team Boards to include any issues that have the team's Component assigned to them.
-- Team Boards/backlogs now show the issue from the original backlog
+
+ Team Boards/backlogs now show the issue from the original backlog.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTYxMDI4OSwtMTg5NTkzMDk2Ml19
+eyJoaXN0b3J5IjpbLTEwMzcwNTAzMzYsLTE4OTU5MzA5NjJdfQ
+==
 -->
