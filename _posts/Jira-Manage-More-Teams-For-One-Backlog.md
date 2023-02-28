@@ -24,13 +24,15 @@ We want a single backlog that a Product Owner can control the priorities of and 
 ## How To Implement The Solution
 
 ### Create Components For Respective Teams
+First, create components for each team or project that will be working on the backlog. Components can be created by selecting "Components" in the project's left sidebar menu. You can then create a component for each team or project, and assign it a name and description. This will help to categorize the work and allow each team to focus on their respective tasks.
  
 ### Assign Components to issues
+When creating or editing an issue, you can assign it to a component by selecting the appropriate component from the drop-down menu of the `Component` field. This will help to ensure that each issue is properly categorized and assigned to the correct team or project.
 
 ### Modify The Team Boards' Filter
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMzcxNzA5LC0xMDM3MDUwMzM2LC0xOD
-k1OTMwOTYyXX0=
+eyJoaXN0b3J5IjpbNTg3MTM4Nzg1LDQ3MjM3MTcwOSwtMTAzNz
+A1MDMzNiwtMTg5NTkzMDk2Ml19
 -->
