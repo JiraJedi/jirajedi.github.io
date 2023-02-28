@@ -34,9 +34,11 @@ To adjust a backlog/board to include issues with specific components, modify the
 1. Going to the board settings (the 3 dots on the top right of the page -> `Board Settings`)
 2. Selecting  "<font color=blue>Edit Filter Query</font>" beneath the `Saved Filter`. 
 3. You can then modify the filter to include the component(s) that correspond to the team or project you want to view issues for by appending `component = "**COMPONENT NAME**"` to the JQL query. 
->E.g `Project = "ABC" AND component = "**COMPONENT NAME**" SORTBY RANK ASC`  
-This will ensure that each team or project only sees the issues that are relevant to them.
+>E.g 
+>`Project = ABC AND component = "COMPONENT NAME" ORDER BY Rank ASC`  
+
+4. Click 'Save' at the top of the pThis will ensure that each team or project only sees the issues that are relevant to them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDA0MzQxMyw0NzIzNzE3MDksLTEwMz
+eyJoaXN0b3J5IjpbMTc0NzM1MDQ3OSw0NzIzNzE3MDksLTEwMz
 cwNTAzMzYsLTE4OTU5MzA5NjJdfQ==
 -->
