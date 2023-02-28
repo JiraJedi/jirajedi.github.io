@@ -4,12 +4,11 @@ title:  "Automated Weekly Reporting"
 author: Mark
 categories: [ Automation ]
 image: assets/images/automation.png
-description: As any project manager knows, there are management tasks that are handled on a repetitive basis and seemingly could be automated were it not for small nuances. This article addresses weekly reporting and potential solutions for automation.
+description: As any project manager knows, there are management tasks that are handled on a repetitive basis and seemingly could be automated were it not for small nuances. This article addresses weekly reporting and potential solutions for automation.
 toc: true
-beforetoc: As any project manager knows, there are management tasks that are handled on a repetitive basis and seemingly could be automated were it not for small nuances. This article addresses weekly reporting and potential solutions for automation.
+beforetoc: As any project manager knows, there are management tasks that are handled on a repetitive basis and seemingly could be automated were it not for small nuances. This article addresses weekly reporting and potential solutions for automation.
 ---
 ## The Problem
-
 When sending out emails/messaging for multiple projects to various stakeholders you cannot send out a generic template because the report needs to be populated with project/client relevant data.
 
 ### Example Report Template
@@ -99,3 +98,6 @@ ___
 ## Conclusion
 
 This article covered 2 potential solutions for automating reports: Microsoft Word’s Mail Merge feature and creating a Macro in PhraseExpress. Both solutions have their pros and cons, but as always, use the right tool for the situation you are in.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk4MTY0NDgzNl19
+-->
