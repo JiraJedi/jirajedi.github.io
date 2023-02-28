@@ -32,9 +32,9 @@ When creating or editing an issue, you can assign it to a component by selecting
 ### Modify The Team Boards' Filter
 To adjust a backlog/board to include issues with specific components, modify the board filter. This can be done by:
 1. Going to the board settings (the 3 dots on the top right of the page -> `Board Settings`)
-2. Selecting  "*Edit Filter Query*" beneath the `Saved Filter`. You can then modify the filter to include the component(s) that correspond to the team or project you want to view. This will ensure that each team or project only sees the issues that are relevant to them.
+2. Selecting  <font color="#00ab6b">"Edit Filter Query"</font> beneath the `Saved Filter`. You can then modify the filter to include the component(s) that correspond to the team or project you want to view. This will ensure that each team or project only sees the issues that are relevant to them.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjI0ODQ4OSw0NzIzNzE3MDksLTEwMz
-cwNTAzMzYsLTE4OTU5MzA5NjJdfQ==
+eyJoaXN0b3J5IjpbLTE4MjIwOTIzMjYsNDcyMzcxNzA5LC0xMD
+M3MDUwMzM2LC0xODk1OTMwOTYyXX0=
 -->
