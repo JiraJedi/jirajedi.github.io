@@ -3,7 +3,7 @@ layout: post
 title:  "Jira: How to Manage More SCRUM Teams For One Backlog"
 author: Mark
 categories: [ Agile, Jira ]
-image: assets/images/automation.png
+image: assets/images/oneBacklog.png
 description: We want a single backlog that a Product Owner can control the priorities of and work with teams to distribute tasks so that they appear in their respective backlogs and boards
 toc: true
 beforetoc: 
@@ -11,7 +11,7 @@ beforetoc:
 ## Introduction
 I often see the question: "How do I manage a product backlog that spans multiple teams / projects in Jira?".  
 
-The typical scenario is a Product Owner overseeing a backlog that multiple teams need to pull issues from. These teams often have their own Projects in Jira and it doesn't make sense to have them flip between multiple projects / boards. It would certainly make priortizing tasks a nightmare.
+The typical scenario is a Product Owner overseeing a backlog that multiple teams need to pull issues from. These teams often have their own Projects in Jira and it doesn't make sense to have them flip between multiple projects / boards. It would certainly make prioritizing tasks a nightmare.
 
 ## Solution Overview
 We want a single backlog that a Product Owner can control the priorities of and work with teams to distribute tasks so that they appear in their respective backlogs and boards. To do this we:
@@ -42,5 +42,6 @@ To adjust a backlog/board to include issues with specific components, modify the
 ## Conclusion
 Overall, using a single backlog in Jira to distribute work to multiple teams and projects can help to streamline the work process and ensure that each team is aligned on the highest priority tasks. By creating components, assigning issues to components, and modifying board filters, you can ensure that everyone is on the same page and working towards the same goals.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY4MDk0OThdfQ==
+eyJoaXN0b3J5IjpbLTE3OTg2MDM0MjcsLTE3MTY4MDk0OThdfQ
+==
 -->
