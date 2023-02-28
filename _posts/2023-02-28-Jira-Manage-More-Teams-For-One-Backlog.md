@@ -16,10 +16,12 @@ The typical scenario is a Product Owner overseeing a backlog that multiple teams
 ## Solution Overview
 We want a single backlog that a Product Owner can control the priorities of and work with teams to distribute tasks so that they appear in their respective backlogs and boards. To do this we:
 -  Create Components that correspond to their respective teams. 
+
 - Assign Components to issues.
+
 - Modify the filters of Team Boards to include any issues that have the team's Component assigned to them.
 
-✅ Team Boards/backlogs now show the issue from the original backlog.
+==✅ Team Boards/backlogs now show the issue from the original backlog.==
 
 ## How To Implement The Solution
 
@@ -42,6 +44,5 @@ To adjust a backlog/board to include issues with specific components, modify the
 ## Conclusion
 Overall, using a single backlog in Jira to distribute work to multiple teams and projects can help to streamline the work process and ensure that each team is aligned on the highest priority tasks. By creating components, assigning issues to components, and modifying board filters, you can ensure that everyone is on the same page and working towards the same goals.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg2MDM0MjcsLTE3MTY4MDk0OThdfQ
-==
+eyJoaXN0b3J5IjpbMTc3NzI1MDU2MSwtMTcxNjgwOTQ5OF19
 -->
