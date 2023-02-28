@@ -40,8 +40,8 @@ To adjust a backlog/board to include issues with specific components, modify the
 4. Click 'Save' at the top of the page. This board will now see any issue in Jira that is assigned the Component as well as any issues in the project itself.
 
 ## Conclusion
-Overall, using a single backlog in Jira to distribute work to multiple teams and projects can help to streamline the work process and ensure that each team is aligned on the higher priority tasks for your . By creating components, assigning issues to components, and modifying board filters, you can ensure that everyone is on the same page and working towards the same goals.
+Overall, using a single backlog in Jira to distribute work to multiple teams and projects can help to streamline the work process and ensure that each team is aligned on the highest priority tasks. By creating components, assigning issues to components, and modifying board filters, you can ensure that everyone is on the same page and working towards the same goals.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzc2NjI2MSw0NzIzNzE3MDksLTEwMz
-cwNTAzMzYsLTE4OTU5MzA5NjJdfQ==
+eyJoaXN0b3J5IjpbMzU1ODQ2NjY2LDQ3MjM3MTcwOSwtMTAzNz
+A1MDMzNiwtMTg5NTkzMDk2Ml19
 -->
