@@ -36,6 +36,7 @@ To adjust a backlog/board to include issues with specific components, modify the
 1. Going to the board settings (the 3 dots on the top right of the page -> `Board Settings`)
 2. Selecting  "<font color=blue>Edit Filter Query</font>" beneath the `Saved Filter`. 
 3. You can then modify the filter to include the component(s) that correspond to the team or project you want to view issues for by appending `OR component = "**COMPONENT NAME**"` to the JQL query. 
+
 >E.g 
 >`Project = ABC OR component = "COMPONENT NAME" ORDER BY Rank ASC`  
 
@@ -44,5 +45,5 @@ To adjust a backlog/board to include issues with specific components, modify the
 ## Conclusion
 Overall, using a single backlog in Jira to distribute work to multiple teams and projects can help to streamline the work process and ensure that each team is aligned on the highest priority tasks. By creating components, assigning issues to components, and modifying board filters, you can ensure that everyone is on the same page and working towards the same goals.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzI1MDU2MSwtMTcxNjgwOTQ5OF19
+eyJoaXN0b3J5IjpbLTkyNTI4MDI3MywtMTcxNjgwOTQ5OF19
 -->
