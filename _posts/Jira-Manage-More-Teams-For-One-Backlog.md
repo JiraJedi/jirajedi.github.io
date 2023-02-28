@@ -30,9 +30,11 @@ First, create components for each team or project that will be working on the ba
 When creating or editing an issue, you can assign it to a component by selecting the appropriate component from the drop-down menu of the `Component` field. This will help to ensure that each issue is properly categorized and assigned to the correct team or project.
 
 ### Modify The Team Boards' Filter
-To adjust a backlog/board to include issues with specific components, modify the board filter. This can be done by going to the board settings (the 3 dots on the top right of the page) and selecting "Filter" from the sidebar. You can then modify the filter to include the component(s) that correspond to the team or project you want to view. This will ensure that each team or project only sees the issues that are relevant to them.
+To adjust a backlog/board to include issues with specific components, modify the board filter. This can be done by:
+1. Going to the board settings (the 3 dots on the top right of the page -> `Board Settings`)
+2. Selecting  "Filter" from the sidebar. You can then modify the filter to include the component(s) that correspond to the team or project you want to view. This will ensure that each team or project only sees the issues that are relevant to them.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzgyMjEzMyw0NzIzNzE3MDksLTEwMz
-cwNTAzMzYsLTE4OTU5MzA5NjJdfQ==
+eyJoaXN0b3J5IjpbNDkyODg4MTM1LDQ3MjM3MTcwOSwtMTAzNz
+A1MDMzNiwtMTg5NTkzMDk2Ml19
 -->
