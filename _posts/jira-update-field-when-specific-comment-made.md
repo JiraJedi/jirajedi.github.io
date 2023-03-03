@@ -8,10 +8,10 @@ description:
 toc: true
 beforetoc: 
 ---
-## Use Case
-As a Product Owner, I would like when a comment is added to an issue, if it starts with a given value, its contents will be copied to a custom field
+## User Story
+As a Product Owner, I would like when a comment is added to an issue, if it starts with a given value, its contents will be copied to a custom field so that I can access information withoud digging through comments.
 
-### **Steps**:
+## How To Imo:
 
 1.  Add your  _trigger_  (I suggest 'When Issue Commented')
 
@@ -29,7 +29,7 @@ As a Product Owner, I would like when a comment is added to an issue, if it star
     2.  In the empty  `Sharepoint Link`  field, enter {{Link}}
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0y
-MDI4NDA3MjU2LC0xNzM0NTA0NDcwLC0yMDAwMzQ5MDExLDE4OT
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0x
+Njc0NzU2MjY3LC0xNzM0NTA0NDcwLC0yMDAwMzQ5MDExLDE4OT
 I5NjE5MDFdfQ==
 -->
