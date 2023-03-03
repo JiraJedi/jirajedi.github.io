@@ -3,13 +3,13 @@ layout: post
 title:  "Jira: Auto Update Fields When Specific Comments Are Made"
 author: Mark
 categories: [ Automation, Jira ]
-image: assets/images/automation.png
+image: assets/images/jiraComment.png
 description: 
 toc: true
 beforetoc: inspired by a solution I provided [in a reddit post.](https://www.reddit.com/r/jira/comments/jwqhe2/comment/gctzc1e/?utm_term=35604468914&context=3&utm_medium=comment_embed&utm_source=embed&utm_name=296167ca-2a77-11eb-b0c5-0ee6fa4404d1&utm_content=timestamp)
 ---
 ## Introduction
-
+This post addresses how to 
 
 ## User Story
 As a Product Owner, I would like when a comment is added to an issue, if it starts with a given value, its contents will be copied to a custom field so that I can access information withoud digging through comments.
@@ -32,7 +32,7 @@ As a Product Owner, I would like when a comment is added to an issue, if it star
     2.  In the empty  `Sharepoint Link`  field, enter {{Link}}
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6WzE3
-MjQwMzk3NjEsLTE3MzQ1MDQ0NzAsLTIwMDAzNDkwMTEsMTg5Mj
-k2MTkwMV19
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6WzQw
+Nzc0OTA4NiwxNzI0MDM5NzYxLC0xNzM0NTA0NDcwLC0yMDAwMz
+Q5MDExLDE4OTI5NjE5MDFdfQ==
 -->
