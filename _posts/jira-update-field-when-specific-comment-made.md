@@ -31,10 +31,10 @@ As a Product Owner, I would like when a comment is added to an issue, if it star
     1.  Choose Sharepoint Link as the  `Fields To Set`        
     2.  In the empty  `Sharepoint Link`  field, enter {{Link}}
 
-> Remember to save and publish your automation!
+> ❗️Remember to save and publish your automation!
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0x
-NjE2MTc0MDgxLDQwNzc0OTA4NiwxNzI0MDM5NzYxLC0xNzM0NT
-A0NDcwLC0yMDAwMzQ5MDExLDE4OTI5NjE5MDFdfQ==
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6WzMw
+NDAzNDMsNDA3NzQ5MDg2LDE3MjQwMzk3NjEsLTE3MzQ1MDQ0Nz
+AsLTIwMDAzNDkwMTEsMTg5Mjk2MTkwMV19
 -->
