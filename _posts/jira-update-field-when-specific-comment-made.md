@@ -8,8 +8,8 @@ description:
 toc: true
 beforetoc: 
 ---
-## Problem
-As a Product Owner, I would like Jira to store infomrtionat 
+## Use Case
+As a Product Owner, I would like when a comment is added to an issue, if it starts with a given value, its contents will be copied to a custom field
 
 ### **Steps**:
 
@@ -29,7 +29,7 @@ As a Product Owner, I would like Jira to store infomrtionat
     2.  In the empty  `Sharepoint Link`  field, enter {{Link}}
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0x
-OTUwNzY1OTk1LC0xNzM0NTA0NDcwLC0yMDAwMzQ5MDExLDE4OT
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0y
+MDI4NDA3MjU2LC0xNzM0NTA0NDcwLC0yMDAwMzQ5MDExLDE4OT
 I5NjE5MDFdfQ==
 -->
