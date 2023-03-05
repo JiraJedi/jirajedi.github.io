@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Books For Getting Started With Project Management"
+title:  "Books For Getting Started With Agile Project Management"
 author: Mark
 categories: [ Agile, Project Management ]
 image: assets/images/automation.png
@@ -53,5 +53,5 @@ beforetoc:
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI3NzIyMV19
+eyJoaXN0b3J5IjpbLTEwNjM4OTY3NDUsLTE1MDI3NzIyMV19
 -->
