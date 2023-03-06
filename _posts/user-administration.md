@@ -1,7 +1,15 @@
+---
+layout: post
+title:  "User Administration Architecture"
+author: Mark
+categories: [ Jira ]
+image: assets/images/automation.png
+description: 
+toc: true
+beforetoc: 
+---
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+Roles Users, Groups
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwMzc2OTMzNDRdfQ==
 -->
