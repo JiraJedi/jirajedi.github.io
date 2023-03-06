@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Ads.txt
 permalink: /ads.txt
 ---
 
