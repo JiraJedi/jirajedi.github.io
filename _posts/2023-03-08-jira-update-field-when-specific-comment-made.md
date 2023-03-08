@@ -6,7 +6,7 @@ categories: [ Automation, Jira ]
 image: assets/images/jiraComment.png
 description: 
 toc: true
-beforetoc: inspired by a solution I provided [in a reddit post.](https://www.reddit.com/r/jira/comments/jwqhe2/comment/gctzc1e/)
+beforetoc: 
 featured: true
 ---
 ## Introduction
@@ -36,6 +36,6 @@ In the following example, we are looking for a Sharepoint link and adding the co
 > ❗️Remember to save and publish your automation!
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wzkz
-ODM2OTM3LC0yNDI3MTI0ODFdfQ==
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0x
+OTE0NzM3NDIsLTI0MjcxMjQ4MV19
 -->
