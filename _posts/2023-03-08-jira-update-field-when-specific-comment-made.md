@@ -21,7 +21,7 @@ In the following example, we are looking for a Sharepoint link and adding the co
 1.  Add your  _trigger_  (I suggest 'When Issue Commented')
 
 2.  Add a new  _condition_  ->  _Advanced Compare Condition_
-    1.  Set the  `First Value`  to \{{issue.comments.last\}}
+    1.  Set the  `First Value`  to {{ issue.comments.last }} 
     2.  `Condition`  should be 'Starts with'
     3.  `Second Value`  is 'xxx' (i.e the text you want to identify)
         
@@ -36,6 +36,6 @@ In the following example, we are looking for a Sharepoint link and adding the co
 > ❗️Remember to save and publish your automation!
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0x
-OTE0NzM3NDIsLTI0MjcxMjQ4MV19
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6WzIx
+MjEzMDM3MzAsLTE5MTQ3Mzc0MiwtMjQyNzEyNDgxXX0=
 -->
