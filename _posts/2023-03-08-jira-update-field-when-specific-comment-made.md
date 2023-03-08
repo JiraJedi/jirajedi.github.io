@@ -31,12 +31,12 @@ In the following example, we are looking for a Sharepoint link and adding the co
         
 4.  Add a new  _action_  ->  _Edit Issue_    
     1.  Choose Sharepoint Link as the  `Fields To Set`        
-    2.  In the empty  `Sharepoint Link`  field, enter `\{{Link}}`\
+    2.  In the empty  `Sharepoint Link`  field, enter \{\{Link\}\}
 
 > ❗️Remember to save and publish your automation!
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0x
-MzU0ODYxNTQwLDIxMjEzMDM3MzAsLTE5MTQ3Mzc0MiwtMjQyNz
-EyNDgxXX0=
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wzcz
+ODI0NTEzNiwtMTM1NDg2MTU0MCwyMTIxMzAzNzMwLC0xOTE0Nz
+M3NDIsLTI0MjcxMjQ4MV19
 -->
