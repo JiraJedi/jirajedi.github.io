@@ -5,7 +5,6 @@ author: Mark
 categories: [ Scrum ]
 image: assets/images/scrumorgvsalliance.jpeg
 description: Which organization should you use to get certified as a Scrum Master? Find out here.
-featured: true
 toc: true
 ---
 
@@ -64,5 +63,5 @@ The internet provides many free resources for Scrum training. My favorite is the
 Regarding books, if you want a quick introduction, you should try ‘Scrum: A Breathtakingly Brief and Agile Introduction‘ by Chris Sims and Hillary Louise Johnson.  
 For a more in depth look into Scrum ‘The Elements of Scrum’ by the same authors will provide you with all you need to know.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MTczMzU0XX0=
+eyJoaXN0b3J5IjpbMTE0MzYxOTc2Nl19
 -->
