@@ -30,11 +30,11 @@ As a Product Owner, I would like when a comment starting with a given value is a
         
 4.  Add a new  _action_  ->  _Edit Issue_    
     1.  Choose Sharepoint Link as the  `Fields To Set`        
-    2.  In the empty  `Sharepoint Link`  field, enter {{Link}}
+    2.  In the empty  `Sharepoint Link`  field, enter `\{{Link}}`\
 
 > ❗️Remember to save and publish your automation!
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6WzIw
-NjIxMzM0NjddfQ==
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy05
+OTQ1MzA5MDVdfQ==
 -->
