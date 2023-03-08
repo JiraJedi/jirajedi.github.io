@@ -16,6 +16,7 @@ This post addresses how to recognise when a specific string of text has been add
 As a Product Owner, I would like when a comment starting with a given value is added to an issue, its contents will be copied to a custom field so that I can access information without digging through comments.
 
 ## How To Implement
+In the following example, we are looking for a Sharepoint link and adding the comment with this link to a `Sharepoint Link` field.
 
 1.  Add your  _trigger_  (I suggest 'When Issue Commented')
 
@@ -35,6 +36,6 @@ As a Product Owner, I would like when a comment starting with a given value is a
 > ❗️Remember to save and publish your automation!
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy05
-OTQ1MzA5MDVdfQ==
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0y
+NDI3MTI0ODFdfQ==
 -->
