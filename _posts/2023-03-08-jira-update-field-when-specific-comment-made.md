@@ -6,7 +6,7 @@ categories: [ Automation, Jira ]
 image: assets/images/jiraComment.png
 description: 
 toc: true
-beforetoc: inspired by a solution I provided [in a reddit post.](https://www.reddit.com/r/jira/comments/jwqhe2/comment/gctzc1e/?utm_term=35604468914&context=3&utm_medium=comment_embed&utm_source=embed&utm_name=296167ca-2a77-11eb-b0c5-0ee6fa4404d1&utm_content=timestamp)
+beforetoc: inspired by a solution I provided [in a reddit post.](https://www.reddit.com/r/jira/comments/jwqhe2/comment/gctzc1e/)
 featured: true
 ---
 ## Introduction
@@ -35,6 +35,6 @@ As a Product Owner, I would like when a comment starting with a given value is a
 > ❗️Remember to save and publish your automation!
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBNYXJrXG5mZWF0dXJlZE
-ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wy0y
-MDUxNjA2MDBdfQ==
+ltYWdlOiBhc3NldHMvaW1hZ2VzL1xuIiwiaGlzdG9yeSI6Wzk0
+MTM1NDg2M119
 -->
