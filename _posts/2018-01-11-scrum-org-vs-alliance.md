@@ -10,7 +10,6 @@ toc: true
 ---
 
 ## Introduction
-
 Agile methodologies have gained significant traction since the 2000s. Scrum is an Agile methodology that promotes bottom-up leadership by utilizing self-organizing teams, not top-down direction.
 
 Most beginner Scrum Masters or Product Owners typically find themselves asking: "Which organization should I use to get certified? [Scrum.org](https://scrum.org/) or [ScrumAlliance.org](https://www.scrumalliance.org/)?"
@@ -64,3 +63,6 @@ The internet provides many free resources for Scrum training. My favorite is the
 
 Regarding books, if you want a quick introduction, you should try ‘Scrum: A Breathtakingly Brief and Agile Introduction‘ by Chris Sims and Hillary Louise Johnson.  
 For a more in depth look into Scrum ‘The Elements of Scrum’ by the same authors will provide you with all you need to know.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzE2MTczMzU0XX0=
+-->
