@@ -32,8 +32,11 @@ Corporations struggle with Agile development because it requires a cultural shif
 
 ## How to Make the Agile Transition
 
-Training your team is critical. No matter how talented, smart, or seasoned they are, getting your team on board with the same training information is the fastest way for the team to coalesce around an accountable system to track their achievements on a daily basis. The training is often disregarded because Scrum seems like such an easy topic, but investing in a basic certification for your team members is invaluable. While we don’t like certifications, there are times when it makes complete sense. We looked at some of the certifications and were shocked at the pricing difference. Our comparisons and recommendations can be found here: [Scrum.org vs. Scrum Alliance](https://markmajer.github.io/blog/scrum_org_vs_scrum_alliance/) or  [How Can I Transition My Difficult Team to Agile?](https://markmajer.github.io/blog/how-can-i-move-my-development-team-to-agile/)
+Training your team is critical. No matter how talented, smart, or seasoned they are, getting your team on board with the same training information is the fastest way for the team to coalesce around an accountable system to track their achievements on a daily basis. The training is often disregarded because Scrum seems like such an easy topic, but investing in a basic certification for your team members is invaluable. While we don’t like certifications, there are times when it makes complete sense. We looked at some of the certifications and were shocked at the pricing difference. Our comparisons and recommendations can be found here: [Scrum.org vs. Scrum Alliance](https://www.jirajedi.com/scrum-org-vs-alliance/) or  [How Can I Transition My Difficult Team to Agile?](https://www.jirajedi.com/move-a-difficult-team-to-agile/)
 
 ## Conclusion
 
 Agile is definitely worth investing the time and effort in for your company. It does not take too long to study, and it can be surprisingly easy for some to incorporate it into an existing company framework. You should expect to have a bumpy road with some developers, and it may signal a period of shake up for you and your company. It is definitely worth the investment.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg5ODc2NzgwMl19
+-->
