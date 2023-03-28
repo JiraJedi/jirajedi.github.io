@@ -40,7 +40,7 @@ Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condit
 **Step 3: Branch Rule & Lookup** <br>
 Add a branch rule `Type of related issues` = "Epic (parent)" and restrict it to your project to avoid spending global automation runs.
 
-Then, add the "Lookup Issues" action to the branch rule. The JQL should be <p> `"Epic Link" = {{issue.Epic Name}}`</p>
+Then, add the "Lookup Issues" action to the branch rule. The JQL should be <p> `"Epic Link" = {{issue.Epic Name}}`
 
 What we are doing here is defining that we want the following actions to take place within Epics that are parents of the issues that have triggered the automation flow. The lookup provides us with a variable to reference that points to the associated Epic.
 
@@ -91,10 +91,10 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 
 > Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTIzNTUxNSwxNjM2NjY5MTU4LC0yMD
-Q5MDQ3ODk4LC0xMjYzMzUzMjIsNDQzMDUxNjg2LC0xNjk4MzU1
-MzAwLDEyMjkwMjg3NzQsLTE2NjcxNzE2NzQsLTE4MTU2NTcxMz
-YsLTQ5MzU0OTY4MCwxNTUxNzU3NzEyLDE0MjYzMjQ5MDYsLTEw
-MDY5NDU3NDAsMTEzNjgwMDMwOCwtNDU1MjU1OTM4LDg4MzI3Nj
-E3MCwxNTQwMDM4ODAwXX0=
+eyJoaXN0b3J5IjpbLTM1ODI1OTM1NCwtMzQ5MjM1NTE1LDE2Mz
+Y2NjkxNTgsLTIwNDkwNDc4OTgsLTEyNjMzNTMyMiw0NDMwNTE2
+ODYsLTE2OTgzNTUzMDAsMTIyOTAyODc3NCwtMTY2NzE3MTY3NC
+wtMTgxNTY1NzEzNiwtNDkzNTQ5NjgwLDE1NTE3NTc3MTIsMTQy
+NjMyNDkwNiwtMTAwNjk0NTc0MCwxMTM2ODAwMzA4LC00NTUyNT
+U5MzgsODgzMjc2MTcwLDE1NDAwMzg4MDBdfQ==
 -->
