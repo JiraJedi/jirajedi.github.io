@@ -29,7 +29,11 @@ We can use any desired trigger but for the purpose of limiting how often I want 
 
 **Step 2: Exclude Issue Types**
 Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condition` = "is not one of" `Value` = "Epic" , "Sub-task".
-We don't want this automation to trigger for the Epic value because we want to calculate the Epic's *children*. 
+- We don't want this automation to trigger for the Epic value because we want to calculate the Epic's *children*. 
+- We don't want this automation to trigger for the Sub-task value because we want to calculate the Epic's *children's aggregate totals which includes the sub-tasks*.
+
+Step 3: Branch Rule & Lookup
+Add a 
 
 ### Calculate Totals
 This is where our newly created fields come in.
@@ -48,5 +52,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3OTI5Njc0XX0=
+eyJoaXN0b3J5IjpbMTY4OTY0MDc2MF19
 -->
