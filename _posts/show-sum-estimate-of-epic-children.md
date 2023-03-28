@@ -20,6 +20,10 @@ This post shows you how to track scope for an Epic and its children and show tha
 
 ## Automation
 ### Trigger & Conditions
+<figure>
+    <img src="/assets/images/automationSection1.png"
+         alt="Automation Section 1">
+</figure>
 We can use 
 ### Calculate Totals
 This is where our newly created fields come in.
@@ -38,5 +42,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyOTMxMDE2XX0=
+eyJoaXN0b3J5IjpbLTUyNTQxNDEyNl19
 -->
