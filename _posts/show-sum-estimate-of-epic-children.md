@@ -57,9 +57,11 @@ This is where our newly created fields come in. We add another action in the bra
 
 ---
 ### Color Status
-This is the cherry on top 🍒! The following actions will determine the 
+This is the cherry on top 🍒! The following actions will determine the color status set for the Epic.
+1. Add an "Advanced Compare Condition" to the branch. The 
+2. 
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODkwMDc5NV19
+eyJoaXN0b3J5IjpbLTI5OTM5Mjg3N119
 -->
