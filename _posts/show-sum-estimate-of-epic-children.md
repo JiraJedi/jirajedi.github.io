@@ -32,9 +32,10 @@ Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condit
 - We don't want this automation to trigger for the Epic value because we want to calculate the Epic's *children*. 
 - We don't want this automation to trigger for the Sub-task value because we want to calculate the Epic's *children's aggregate totals which includes the sub-tasks*.
 
-Step 3: Branch Rule & Lookup
+**Step 3: Branch Rule & Lookup**
 Add a branch rule `Type of related issues` = "Epic (parent)" and restrict it to your project to avoid spending global automation runs.
-Then, add the "Lookup Issues" action 
+Then, add the "Lookup Issues" action to the branch rule. The JQL should be `"Epic Link" = "{{issue.Epic Name}}"`
+WHat we are do
 
 ### Calculate Totals
 This is where our newly created fields come in.
@@ -53,5 +54,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzU5MTg1N119
+eyJoaXN0b3J5IjpbNzk5NDc4NDE3XX0=
 -->
