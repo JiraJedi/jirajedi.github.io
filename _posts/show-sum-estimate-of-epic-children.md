@@ -19,6 +19,8 @@ This post shows you how to track scope for an Epic and its children and show tha
 `Delta`
 
 ## Automation
+### Trigger & Conditions
+We can use 
 ### Calculate Totals
 This is where our newly created fields come in.
 <figure>
@@ -33,7 +35,8 @@ This is where our newly created fields come in.
 ---
 ### Color Status
 
+
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU1NjMxMDhdfQ==
+eyJoaXN0b3J5IjpbMjYyOTMxMDE2XX0=
 -->
