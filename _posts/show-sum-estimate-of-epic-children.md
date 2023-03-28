@@ -33,7 +33,8 @@ Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condit
 - We don't want this automation to trigger for the Sub-task value because we want to calculate the Epic's *children's aggregate totals which includes the sub-tasks*.
 
 Step 3: Branch Rule & Lookup
-Add a 
+Add a branch rule `Type of related issues` = "Epic (parent)" and restrict it to your project to avoid spending global automation runs.
+Then, add the "Lookup Issues" action 
 
 ### Calculate Totals
 This is where our newly created fields come in.
@@ -52,5 +53,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTY0MDc2MF19
+eyJoaXN0b3J5IjpbLTkxMzU5MTg1N119
 -->
