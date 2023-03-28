@@ -65,12 +65,13 @@ This is the cherry on top 🍒! The following actions will determine the color s
 
 <figure>
     <img src="/assets/images/automationSection2.png"
-         alt="Automation Section 1">
+         alt="Automation Section 2">
 </figure>
 
-> Make sure you publish your new rule!
+> ❗️ Make sure you publish your new rule! Try it out by adjusting adding a time entry to a User Story / Task.
 
 ## Dashboard
+It's great to see this data at
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzM2MDc5XX0=
+eyJoaXN0b3J5IjpbMTc2ODg0MTU4OCwxODc3MzYwNzldfQ==
 -->
