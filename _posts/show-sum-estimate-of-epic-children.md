@@ -17,7 +17,11 @@ This post shows you how to track scope for an Epic and its children and show tha
 `Remaining Work` - text field
 `Total Time Spent` - text field
 `Delta` - text field
-`Color Status` - dropdown sel
+
+`Color Status` - dropdown selector with options for 
+1. 🟢 _On Track
+2. 🟡 _At Risk / Delayed
+3. 🔴 _Red
 
 ## Automation
 ### Trigger & Conditions
@@ -57,5 +61,5 @@ This is the cherry on top 🍒! The following actions will determine the
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDE1MzAwXX0=
+eyJoaXN0b3J5IjpbMTY2ODkwMDc5NV19
 -->
