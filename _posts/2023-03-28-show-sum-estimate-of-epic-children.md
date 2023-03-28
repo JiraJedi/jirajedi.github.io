@@ -14,8 +14,8 @@ It can be useful to see how much effort is required for an Epic based on it's ch
 This post shows you how to track scope for an Epic and its children and show that data in dashboard. Definitely useful for reporting!
 
 ## Create fields for 
-`Remaining Work` - text field <\br>
-`Total Time Spent` - text field <\br>
+`Remaining Work` - text field <br>
+`Total Time Spent` - text field <br>
 `Delta` - text field
 
 `Color Status` - dropdown selector with options for 
@@ -29,15 +29,15 @@ This post shows you how to track scope for an Epic and its children and show tha
     <img src="/assets/images/automationSection1.png"
          alt="Automation Section 1">
 </figure>
-**Step1: Define your automation trigger**
+**Step1: Define your automation trigger** <br>
 We can use any desired trigger but for the purpose of limiting how often I want this automation to occur, I've set it to trigger whenever work is logged.
 
-**Step 2: Exclude Issue Types**
+**Step 2: Exclude Issue Types** <br>
 Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condition` = "is not one of" `Value` = "Epic" , "Sub-task".
 - We don't want this automation to trigger for the Epic value because we want to calculate the Epic's *children*. 
 - We don't want this automation to trigger for the Sub-task value because we want to calculate the Epic's *children's aggregate totals which includes the sub-tasks*.
 
-**Step 3: Branch Rule & Lookup**
+**Step 3: Branch Rule & Lookup** <br>
 Add a branch rule `Type of related issues` = "Epic (parent)" and restrict it to your project to avoid spending global automation runs.
 Then, add the "Lookup Issues" action to the branch rule. The JQL should be `"Epic Link" = "{{issue.Epic Name}}"`
 What we are doing here is defining that we want the following actions to take place within Epics that are parents of the issues that have triggered the automation flow. The lookup provides us with a variable to reference that points to the associated Epic.
@@ -89,5 +89,6 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 
 > Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMjc2MTcwLDE1NDAwMzg4MDBdfQ==
+eyJoaXN0b3J5IjpbLTQ1NTI1NTkzOCw4ODMyNzYxNzAsMTU0MD
+AzODgwMF19
 -->
