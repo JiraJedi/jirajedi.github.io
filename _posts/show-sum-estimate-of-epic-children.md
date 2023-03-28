@@ -76,7 +76,7 @@ It's great to see this data at an Epic level but it's not super easy to show in 
     <img src="/assets/images/EpicsDashboard.png"
          alt="an Epics Dashboard">
 </figure>
-By assigning a 
+Create a filter that shows the Epics that you want to show.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQwMTgyNTcsMTg3NzM2MDc5XX0=
+eyJoaXN0b3J5IjpbLTUyMDAzODA1LDE4NzczNjA3OV19
 -->
