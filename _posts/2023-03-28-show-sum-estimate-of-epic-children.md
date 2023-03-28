@@ -40,6 +40,7 @@ Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condit
 **Step 3: Branch Rule & Lookup** <br>
 Add a branch rule `Type of related issues` = "Epic (parent)" and restrict it to your project to avoid spending global automation runs.
 
+{% raw %}
 Then, add the "Lookup Issues" action to the branch rule. The JQL should be `"Epic Link" = {{issue.Epic Name}}` 
 {% endraw %}
 
@@ -92,11 +93,11 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 
 > Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODQyNjc3NywxNDU2Mzg3NjIyLC0zND
-kyMzU1MTUsMTYzNjY2OTE1OCwtMjA0OTA0Nzg5OCwtMTI2MzM1
-MzIyLDQ0MzA1MTY4NiwtMTY5ODM1NTMwMCwxMjI5MDI4Nzc0LC
-0xNjY3MTcxNjc0LC0xODE1NjU3MTM2LC00OTM1NDk2ODAsMTU1
-MTc1NzcxMiwxNDI2MzI0OTA2LC0xMDA2OTQ1NzQwLDExMzY4MD
-AzMDgsLTQ1NTI1NTkzOCw4ODMyNzYxNzAsMTU0MDAzODgwMF19
+eyJoaXN0b3J5IjpbLTQ1OTcwNzE5LDE0NTYzODc2MjIsLTM0OT
+IzNTUxNSwxNjM2NjY5MTU4LC0yMDQ5MDQ3ODk4LC0xMjYzMzUz
+MjIsNDQzMDUxNjg2LC0xNjk4MzU1MzAwLDEyMjkwMjg3NzQsLT
+E2NjcxNzE2NzQsLTE4MTU2NTcxMzYsLTQ5MzU0OTY4MCwxNTUx
+NzU3NzEyLDE0MjYzMjQ5MDYsLTEwMDY5NDU3NDAsMTEzNjgwMD
+MwOCwtNDU1MjU1OTM4LDg4MzI3NjE3MCwxNTQwMDM4ODAwXX0=
 
 -->
