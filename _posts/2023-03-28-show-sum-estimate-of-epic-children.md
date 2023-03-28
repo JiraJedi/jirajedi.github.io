@@ -14,8 +14,8 @@ It can be useful to see how much effort is required for an Epic based on it's ch
 This post shows you how to track scope for an Epic and its children and show that data in dashboard. Definitely useful for reporting!
 
 ## Create fields for 
-`Remaining Work` - text field
-`Total Time Spent` - text field
+`Remaining Work` - text field <\br>
+`Total Time Spent` - text field <\br>
 `Delta` - text field
 
 `Color Status` - dropdown selector with options for 
@@ -89,5 +89,5 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 
 > Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDAzODgwMF19
+eyJoaXN0b3J5IjpbODgzMjc2MTcwLDE1NDAwMzg4MDBdfQ==
 -->
