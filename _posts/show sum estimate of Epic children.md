@@ -11,7 +11,7 @@ beforetoc:
 ## Introduction
 It can be useful to see how much effort is required for an Epic based on it's children but while the functionality to see a sum total is available to some extent for Stories and Tasks, this is not the case for Epics. 
 
-This post shows you how to track your scope for an Epic and its children and show that data
+This post shows you how to track scope for an Epic and its children and show that data in dashboard. Definitely useful for reporting!
 
 ## Create text fields for 
 `Remaining Work`
@@ -19,6 +19,7 @@ This post shows you how to track your scope for an Epic and its children and sho
 `Delta`
 
 ## Automation
+Calculate 
 ### Calculate Sum Of Children's Original Estimates
 
 ### Calculate Sum Of Children's Time Spent
@@ -27,8 +28,8 @@ This post shows you how to track your scope for an Epic and its children and sho
 
 ### Color Status
 
-## 
+## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODQ0ODgxMSwtMTQyMjQ3NTA5MSwxNz
+eyJoaXN0b3J5IjpbLTM2ODg2OTQyNiwtMTQyMjQ3NTA5MSwxNz
 UwMjk0MjY4XX0=
 -->
