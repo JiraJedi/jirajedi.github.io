@@ -71,7 +71,12 @@ This is the cherry on top 🍒! The following actions will determine the color s
 > ❗️ Make sure you publish your new rule! Try it out by adjusting adding a time entry to a User Story / Task.
 
 ## Dashboard
-It's great to see this data at
+It's great to see this data at an Epic level but it's not super easy to show in reporting. This is where a Jira Dashboard can come in to display this data cleanly.
+<figure>
+    <img src="/assets/images/EpicsDashboard.png"
+         alt="an Epics Dashboard">
+</figure>
+By assigning a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODg0MTU4OCwxODc3MzYwNzldfQ==
+eyJoaXN0b3J5IjpbLTIxMDQwMTgyNTcsMTg3NzM2MDc5XX0=
 -->
