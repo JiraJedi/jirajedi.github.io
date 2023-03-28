@@ -38,7 +38,7 @@ Then, add the "Lookup Issues" action to the branch rule. The JQL should be `"Epi
 What we are doing here is defining that we want the following actions to take place within Epics that are parents of the issues that have triggered the automation flow.
 
 ### Calculate Totals
-This is where our newly created fields come in.
+This is where our newly created fields come in. We add another action in the branch rule "Edit Issue Fields"
 <figure>
     <img src="/assets/images/editIssueFields.png"
          alt="Edit Issue Fields">
@@ -54,5 +54,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MDgyNTldfQ==
+eyJoaXN0b3J5IjpbMTg1NDc4MjM0NV19
 -->
