@@ -80,6 +80,7 @@ This is the cherry on top 🍒! The following actions will determine the color s
          alt="Automation Section 2">
 </figure>
 
+
 > ❗️ Make sure you publish your new rule! Try it out by adjusting adding a time entry to a User Story / Task.
 
 ## Dashboard
@@ -101,11 +102,11 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 
 > Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mjc0MDI1LC00NTk3MDcxOSwxNDU2Mz
-g3NjIyLC0zNDkyMzU1MTUsMTYzNjY2OTE1OCwtMjA0OTA0Nzg5
-OCwtMTI2MzM1MzIyLDQ0MzA1MTY4NiwtMTY5ODM1NTMwMCwxMj
-I5MDI4Nzc0LC0xNjY3MTcxNjc0LC0xODE1NjU3MTM2LC00OTM1
-NDk2ODAsMTU1MTc1NzcxMiwxNDI2MzI0OTA2LC0xMDA2OTQ1Nz
-QwLDExMzY4MDAzMDgsLTQ1NTI1NTkzOCw4ODMyNzYxNzAsMTU0
-MDAzODgwMF19
+eyJoaXN0b3J5IjpbLTU0NjI5ODYyOSwxNjgyNzQwMjUsLTQ1OT
+cwNzE5LDE0NTYzODc2MjIsLTM0OTIzNTUxNSwxNjM2NjY5MTU4
+LC0yMDQ5MDQ3ODk4LC0xMjYzMzUzMjIsNDQzMDUxNjg2LC0xNj
+k4MzU1MzAwLDEyMjkwMjg3NzQsLTE2NjcxNzE2NzQsLTE4MTU2
+NTcxMzYsLTQ5MzU0OTY4MCwxNTUxNzU3NzEyLDE0MjYzMjQ5MD
+YsLTEwMDY5NDU3NDAsMTEzNjgwMDMwOCwtNDU1MjU1OTM4LDg4
+MzI3NjE3MF19
 -->
