@@ -28,7 +28,7 @@ This post shows you how to track scope for an Epic and its children and show tha
 We can use any desired trigger but for the purpose of limiting how often I want this automation to occur, I've set it to trigger whenever work is logged.
 
 **Step 2: Exclude Issue Types**
-Set the issue
+Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condition` = "is not one of" `Value` = "Epic" , "
 
 ### Calculate Totals
 This is where our newly created fields come in.
@@ -47,5 +47,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjU0MTAzMl19
+eyJoaXN0b3J5IjpbMTgyMDI1Mjk3Ml19
 -->
