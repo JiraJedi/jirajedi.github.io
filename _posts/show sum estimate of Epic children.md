@@ -15,10 +15,14 @@ beforetoc:
 `Delta`
 
 ## Automation
-### Calculate Sum O
+### Calculate Sum Of Children's Original Estimates
+
+### Calculate Sum Of Children's Time Spent
+
+### Calculate Sum Of Children's Remaining Estimates (Delta)
 
 ### Color Status
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTIyMzI5MiwtMTQyMjQ3NTA5MSwxNz
+eyJoaXN0b3J5IjpbMTc4MDQxNjg1MiwtMTQyMjQ3NTA5MSwxNz
 UwMjk0MjY4XX0=
 -->
