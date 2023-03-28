@@ -82,7 +82,12 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 	b. Key
 	c. Summary
 	d. Orginal Estimate
-	e. 
+	e. Total Time Spent
+	f. Remaining Work
+	g. Delta
+	h. Color Status
+
+> Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjAwMjUwLDE4NzczNjA3OV19
+eyJoaXN0b3J5IjpbMTU0MDAzODgwMCwxODc3MzYwNzldfQ==
 -->
