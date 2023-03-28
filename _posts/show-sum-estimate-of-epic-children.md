@@ -58,10 +58,10 @@ This is where our newly created fields come in. We add another action in the bra
 ---
 ### Color Status
 This is the cherry on top 🍒! The following actions will determine the color status set for the Epic.
-1. Add an "Advanced Compare Condition" to the branch. The 
-2. 
+1. Add an "Advanced Compare Condition" to the branch. The `First value` = `{issue.Delta}}`. The `Condition` = "greater than". The `Second value` = "-1"
+2. Add an 
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTM5Mjg3N119
+eyJoaXN0b3J5IjpbLTc1NjkwNzA3OF19
 -->
