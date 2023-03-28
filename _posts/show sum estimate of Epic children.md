@@ -9,7 +9,9 @@ toc: true
 beforetoc: 
 ---
 ## Introduction
-It can be useful to see how much effort is required for an Epic based on it's children but while this functionality is available to some extent for Stories
+It can be useful to see how much effort is required for an Epic based on it's children but while the functionality to see a sum total is available to some extent for Stories and Tasks, this is not the case for Epics. 
+
+This post shows you how to track your scope for an Epic and its children and show that data
 
 ## Create text fields for 
 `Remaining Work`
@@ -24,7 +26,9 @@ It can be useful to see how much effort is required for an Epic based on it's ch
 ### Calculate Sum Of Children's Remaining Estimates (Delta)
 
 ### Color Status
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM0Njk1MDgsLTE0MjI0NzUwOTEsMT
-c1MDI5NDI2OF19
+eyJoaXN0b3J5IjpbMTU5ODQ0ODgxMSwtMTQyMjQ3NTA5MSwxNz
+UwMjk0MjY4XX0=
 -->
