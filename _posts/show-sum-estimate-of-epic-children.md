@@ -24,7 +24,8 @@ This post shows you how to track scope for an Epic and its children and show tha
     <img src="/assets/images/automationSection1.png"
          alt="Automation Section 1">
 </figure>
-We can use 
+We can use any desired trigger but for the purpose of limiting how often I want this automation to occur, I've set it to trigger whenever work i
+
 ### Calculate Totals
 This is where our newly created fields come in.
 <figure>
@@ -42,5 +43,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTQxNDEyNl19
+eyJoaXN0b3J5IjpbLTEyNTc5MDIyNjldfQ==
 -->
