@@ -78,17 +78,17 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 </figure>
 1. [Create a filter](https://community.atlassian.com/t5/Jira-Software-questions/How-do-i-create-a-new-filter-in-new-JIRA-UI/qaq-p/714010) that shows the Epics that you want to show.
 2. In your Jira dashboard, Add a Filter Results widget and set the Saved Filter option to your newly created filter. The columns to display are:
-	a. Issue Type
-	b. Key
-	c. Summary
-	d. Orginal Estimate
-	e. Total Time Spent
-	f. Remaining Work
-	g. Delta
-	h. Color Status
+	<br>a. Issue Type
+	<br>b. Key
+	<br>c. Summary
+	<br>d. Orginal Estimate
+	<br>e. Total Time Spent
+	<br>f. Remaining Work
+	<br>g. Delta
+	<br>h. Color Status
 
 > Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTI1NTkzOCw4ODMyNzYxNzAsMTU0MD
-AzODgwMF19
+eyJoaXN0b3J5IjpbMjM2NzEzNTk4LC00NTUyNTU5MzgsODgzMj
+c2MTcwLDE1NDAwMzg4MDBdfQ==
 -->
