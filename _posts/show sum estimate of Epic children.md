@@ -19,17 +19,18 @@ This post shows you how to track scope for an Epic and its children and show tha
 `Delta`
 
 ## Automation
-Calculate 
-### Calculate Sum Of Children's Original Estimates
+### Calculate Totals
 
-### Calculate Sum Of Children's Time Spent
+#### Calculate Sum Of Children's Original Estimates
 
-### Calculate Sum Of Children's Remaining Estimates (Delta)
+#### Calculate Sum Of Children's Time Spent
 
+#### Calculate Sum Of Children's Remaining Estimates (Delta)
+---
 ### Color Status
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODg2OTQyNiwtMTQyMjQ3NTA5MSwxNz
-UwMjk0MjY4XX0=
+eyJoaXN0b3J5IjpbMzA3MDM2ODIwLC0xNDIyNDc1MDkxLDE3NT
+AyOTQyNjhdfQ==
 -->
