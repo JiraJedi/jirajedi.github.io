@@ -24,7 +24,11 @@ This post shows you how to track scope for an Epic and its children and show tha
     <img src="/assets/images/automationSection1.png"
          alt="Automation Section 1">
 </figure>
-We can use any desired trigger but for the purpose of limiting how often I want this automation to occur, I've set it to trigger whenever work i
+**Step1: Define your automation trigger**
+We can use any desired trigger but for the purpose of limiting how often I want this automation to occur, I've set it to trigger whenever work is logged.
+
+**Step 2: Exclude Issue Types**
+Set the issue
 
 ### Calculate Totals
 This is where our newly created fields come in.
@@ -43,5 +47,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc5MDIyNjldfQ==
+eyJoaXN0b3J5IjpbLTkzNjU0MTAzMl19
 -->
