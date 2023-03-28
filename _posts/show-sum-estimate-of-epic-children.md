@@ -76,7 +76,8 @@ It's great to see this data at an Epic level but it's not super easy to show in 
     <img src="/assets/images/EpicsDashboard.png"
          alt="an Epics Dashboard">
 </figure>
-Create a filter that shows the Epics that you want to show.
+1. [Create a filter](https://community.atlassian.com/t5/Jira-Software-questions/How-do-i-create-a-new-filter-in-new-JIRA-UI/qaq-p/714010) that shows the Epics that you want to show.
+2. In your Jira dashboard, Add a Filter Results widget and set the Saved Filter option to th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDAzODA1LDE4NzczNjA3OV19
+eyJoaXN0b3J5IjpbMTI1OTI4MjI5MiwxODc3MzYwNzldfQ==
 -->
