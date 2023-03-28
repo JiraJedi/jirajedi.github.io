@@ -59,11 +59,11 @@ This is where our newly created fields come in. We add another action in the bra
 ### Color Status
 This is the cherry on top 🍒! The following actions will determine the color status set for the Epic.
 1. Add an "Advanced Compare Condition" to the branch. The `First value` = `{issue.Delta}}`. The `Condition` = "greater than". The `Second value` = "-1"
-2. Add an "Edit Issue" action: Field to set is `Color Status` = 🔴 _Red
+2. Add an "Edit Issue" action: Field to set is `Color Status` = 🟢  _On Track
 3.  Add another "Advanced Compare Condition". The `First value` = `{issue.Delta}}`. The `Condition` = "less than". The `Second value` = "0"
-4. 
+4. Add another "Edit Issue" action: Field to set is `Color Status` = 🔴 _Red
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTQxMzA2MV19
+eyJoaXN0b3J5IjpbLTEzNjQ4MzI3MTVdfQ==
 -->
