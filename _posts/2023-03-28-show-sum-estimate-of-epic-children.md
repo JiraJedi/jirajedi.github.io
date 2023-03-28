@@ -61,15 +61,19 @@ This is where our newly created fields come in. We add another action in the bra
 `Total Time Spent` = `{{lookupIssues.timeSpent.sum.divide(3600)}}h`
 {% endraw %}
 #### Calculates Sum Of Children's Remaining Estimates (Delta)
+{% raw %}
 `Delta` = `{{issue.Original Estimate.divide(3600).minus(lookupIssues.timeSpent.sum.divide(3600)).minus(lookupIssues.Remaining Estimate.sum.divide(3600))}} hours`
+{% endraw %}
 
 ---
 ### Color Status
 This is the cherry on top 🍒! The following actions will determine the color status set for the Epic.
+{% raw %}
 1. Add an "Advanced Compare Condition" to the branch. The `First value` = `{{issue.Delta}}`. The `Condition` = "greater than". The `Second value` = "-1"
 2. Add an "Edit Issue" action: Field to set is `Color Status` = 🟢  _On Track
 3.  Add another "Advanced Compare Condition". The `First value` = `{{issue.Delta}}`. The `Condition` = "less than". The `Second value` = "0"
 4. Add another "Edit Issue" action: Field to set is `Color Status` = 🔴 _Red
+{% endraw %}
 
 <figure>
     <img src="/assets/images/automationSection2.png"
@@ -97,11 +101,11 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 
 > Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTk3MjUxMywtNDU5NzA3MTksMTQ1Nj
-M4NzYyMiwtMzQ5MjM1NTE1LDE2MzY2NjkxNTgsLTIwNDkwNDc4
-OTgsLTEyNjMzNTMyMiw0NDMwNTE2ODYsLTE2OTgzNTUzMDAsMT
-IyOTAyODc3NCwtMTY2NzE3MTY3NCwtMTgxNTY1NzEzNiwtNDkz
-NTQ5NjgwLDE1NTE3NTc3MTIsMTQyNjMyNDkwNiwtMTAwNjk0NT
-c0MCwxMTM2ODAwMzA4LC00NTUyNTU5MzgsODgzMjc2MTcwLDE1
-NDAwMzg4MDBdfQ==
+eyJoaXN0b3J5IjpbMTY4Mjc0MDI1LC00NTk3MDcxOSwxNDU2Mz
+g3NjIyLC0zNDkyMzU1MTUsMTYzNjY2OTE1OCwtMjA0OTA0Nzg5
+OCwtMTI2MzM1MzIyLDQ0MzA1MTY4NiwtMTY5ODM1NTMwMCwxMj
+I5MDI4Nzc0LC0xNjY3MTcxNjc0LC0xODE1NjU3MTM2LC00OTM1
+NDk2ODAsMTU1MTc1NzcxMiwxNDI2MzI0OTA2LC0xMDA2OTQ1Nz
+QwLDExMzY4MDAzMDgsLTQ1NTI1NTkzOCw4ODMyNzYxNzAsMTU0
+MDAzODgwMF19
 -->
