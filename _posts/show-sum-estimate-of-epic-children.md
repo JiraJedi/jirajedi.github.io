@@ -20,10 +20,10 @@ This post shows you how to track scope for an Epic and its children and show tha
 
 ## Automation
 ### Calculate Totals
+This is where our newly created fields come in.
 <figure>
-    <img src="/assets/images/pexpress.png"
+    <img src="/assets/images/editIssueFields.png"
          alt="Edit Issue Fields">
-    <figcaption>A Weekly Report PhraseExpress Macro</figcaption>
 </figure>
 #### Calculate Sum Of Children's Original Estimates
 
@@ -35,5 +35,5 @@ This post shows you how to track scope for an Epic and its children and show tha
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzU3NTM3NF19
+eyJoaXN0b3J5IjpbLTE3MDU1NjMxMDhdfQ==
 -->
