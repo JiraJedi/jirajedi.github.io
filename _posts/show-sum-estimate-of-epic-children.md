@@ -35,7 +35,7 @@ Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condit
 **Step 3: Branch Rule & Lookup**
 Add a branch rule `Type of related issues` = "Epic (parent)" and restrict it to your project to avoid spending global automation runs.
 Then, add the "Lookup Issues" action to the branch rule. The JQL should be `"Epic Link" = "{{issue.Epic Name}}"`
-WHat we are do
+What we are doing here is defining that we want the following actions to take place within Epics that are parents of the isses
 
 ### Calculate Totals
 This is where our newly created fields come in.
@@ -54,5 +54,5 @@ This is where our newly created fields come in.
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NDc4NDE3XX0=
+eyJoaXN0b3J5IjpbLTIxMTUzMzA5MDZdfQ==
 -->
