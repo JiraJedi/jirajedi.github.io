@@ -35,7 +35,7 @@ Set the issue fields conditon so that the `Field` = "Issue Type" and the `Condit
 **Step 3: Branch Rule & Lookup**
 Add a branch rule `Type of related issues` = "Epic (parent)" and restrict it to your project to avoid spending global automation runs.
 Then, add the "Lookup Issues" action to the branch rule. The JQL should be `"Epic Link" = "{{issue.Epic Name}}"`
-What we are doing here is defining that we want the following actions to take place within Epics that are parents of the issues that have triggered the automation flow.
+What we are doing here is defining that we want the following actions to take place within Epics that are parents of the issues that have triggered the automation flow. The lookup provides us with a variable to reference that points to the associated Epic.
 
 ### Calculate Totals
 This is where our newly created fields come in. We add another action in the branch rule "Edit Issue Fields" and modify the following fields:
@@ -46,13 +46,15 @@ This is where our newly created fields come in. We add another action in the bra
 #### Calculates Sum Of Children's Original Estimates
 `Remaining Work` = `{{lookupIssues.Remaining Estimate.sum.divide(3600)}}h`
 #### Calculates Sum Of Children's Time Spent
-
+`Total Time Spent` = `{{lookupIssues.timeSpent.sum.divide(3600)}}h`
 #### Calculates Sum Of Children's Remaining Estimates (Delta)
+`Delta` = `{{issue.Original Estimate.divide(3600).minus(lookupIssues.timeSpent.sum.divide(3600)).minus(lookupIssues.Remaining Estimate.sum.divide(3600))}} hours`
+
 ---
 ### Color Status
 
 
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkzMTYyXX0=
+eyJoaXN0b3J5IjpbNjA5OTYyMjgyXX0=
 -->
