@@ -9,7 +9,11 @@ toc: true
 beforetoc: 
 ---
 
-
+Create text fields for 
+`Remaining Work`
+`Total Time Spent`
+`Delta`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI0NzUwOTEsMTc1MDI5NDI2OF19
+eyJoaXN0b3J5IjpbMTM1OTgzMDQ1NiwtMTQyMjQ3NTA5MSwxNz
+UwMjk0MjY4XX0=
 -->
