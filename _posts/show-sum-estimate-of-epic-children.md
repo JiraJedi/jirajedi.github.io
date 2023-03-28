@@ -63,7 +63,14 @@ This is the cherry on top 🍒! The following actions will determine the color s
 3.  Add another "Advanced Compare Condition". The `First value` = `{issue.Delta}}`. The `Condition` = "less than". The `Second value` = "0"
 4. Add another "Edit Issue" action: Field to set is `Color Status` = 🔴 _Red
 
+<figure>
+    <img src="/assets/images/automationSection2.png"
+         alt="Automation Section 1">
+</figure>
+
+> Make sure you publish your new rule!
+
 ## Dashboard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ4MzI3MTVdfQ==
+eyJoaXN0b3J5IjpbMTg3NzM2MDc5XX0=
 -->
