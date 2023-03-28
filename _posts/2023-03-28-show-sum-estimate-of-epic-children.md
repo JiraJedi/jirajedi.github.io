@@ -53,9 +53,13 @@ This is where our newly created fields come in. We add another action in the bra
          alt="Edit Issue Fields">
 </figure>
 #### Calculates Sum Of Children's Original Estimates
+{% raw %}
 `Remaining Work` = `{{lookupIssues.Remaining Estimate.sum.divide(3600)}}h`
+{% endraw %}
 #### Calculates Sum Of Children's Time Spent
+{% raw %}
 `Total Time Spent` = `{{lookupIssues.timeSpent.sum.divide(3600)}}h`
+{% endraw %}
 #### Calculates Sum Of Children's Remaining Estimates (Delta)
 `Delta` = `{{issue.Original Estimate.divide(3600).minus(lookupIssues.timeSpent.sum.divide(3600)).minus(lookupIssues.Remaining Estimate.sum.divide(3600))}} hours`
 
@@ -93,11 +97,11 @@ It's great to see this data at an Epic level but it's not super easy to show in 
 
 > Be Sure to hit Save!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTcwNzE5LDE0NTYzODc2MjIsLTM0OT
-IzNTUxNSwxNjM2NjY5MTU4LC0yMDQ5MDQ3ODk4LC0xMjYzMzUz
-MjIsNDQzMDUxNjg2LC0xNjk4MzU1MzAwLDEyMjkwMjg3NzQsLT
-E2NjcxNzE2NzQsLTE4MTU2NTcxMzYsLTQ5MzU0OTY4MCwxNTUx
-NzU3NzEyLDE0MjYzMjQ5MDYsLTEwMDY5NDU3NDAsMTEzNjgwMD
-MwOCwtNDU1MjU1OTM4LDg4MzI3NjE3MCwxNTQwMDM4ODAwXX0=
-
+eyJoaXN0b3J5IjpbMTg1NTk3MjUxMywtNDU5NzA3MTksMTQ1Nj
+M4NzYyMiwtMzQ5MjM1NTE1LDE2MzY2NjkxNTgsLTIwNDkwNDc4
+OTgsLTEyNjMzNTMyMiw0NDMwNTE2ODYsLTE2OTgzNTUzMDAsMT
+IyOTAyODc3NCwtMTY2NzE3MTY3NCwtMTgxNTY1NzEzNiwtNDkz
+NTQ5NjgwLDE1NTE3NTc3MTIsMTQyNjMyNDkwNiwtMTAwNjk0NT
+c0MCwxMTM2ODAwMzA4LC00NTUyNTU5MzgsODgzMjc2MTcwLDE1
+NDAwMzg4MDBdfQ==
 -->
