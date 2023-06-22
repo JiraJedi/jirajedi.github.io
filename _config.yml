@@ -4,7 +4,7 @@ title: "Jira Jedi"
 description: "Automation, Process Improvement and Atlassian help"
 logo: 'assets/images/jirajedicon small.png'
 favicon: 'assets/images/jirajedicon.png'
-baseurl: https://www.jirajedi.com
+baseurl: jirajedi.com
 google_analytics: ''
 disqus: 'jirajedi'
 mailchimp-list: 'https://jirajedi.us21.list-manage.com/subscribe/post?u=8792572e197799746682727d4&amp;id=2293561a46&amp;f_id=0023f4e1f0'
